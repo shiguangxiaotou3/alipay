@@ -5,9 +5,10 @@
             "Shiguangxiaotou\\Alipay\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
-            "name": "shiguangxiaotou3",
+            "name": "shiguangxiaotou",
             "email": "wanlong757402@outlook.com"
         }
     ],
