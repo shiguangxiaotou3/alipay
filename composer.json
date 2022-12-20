@@ -1,0 +1,15 @@
+{
+    "name": "shiguangxiaotou/alipay",
+    "autoload": {
+        "psr-4": {
+            "Shiguangxiaotou\\Alipay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shiguangxiaotou3",
+            "email": "wanlong757402@outlook.com"
+        }
+    ],
+    "require": {}
+}
