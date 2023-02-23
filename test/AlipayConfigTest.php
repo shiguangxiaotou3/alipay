@@ -55,7 +55,7 @@ echo var_dump($responseResult),PHP_EOL;
 
 //普通方式的测试
 
-$$url = "https://openapi.alipaydev.com/gateway.do";
+$url = "https://openapi.alipaydev.com/gateway.do";
 $app_id="your_appId";
 $privateKey="your_privateKey";
 $publicKey ="your_publicKey";
