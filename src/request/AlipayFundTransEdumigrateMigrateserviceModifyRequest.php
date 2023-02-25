@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.trans.edumigrate.migrateservice.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 11:12:47
+ * @since 1.0, 2023-01-11 05:40:22
  */
 class AlipayFundTransEdumigrateMigrateserviceModifyRequest
 {

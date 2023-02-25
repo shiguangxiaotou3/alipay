@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.dish.specgroup.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:25:08
+ * @since 1.0, 2023-01-04 22:24:08
  */
 class KoubeiCateringDishSpecgroupSyncRequest
 {

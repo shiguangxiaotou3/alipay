@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.mapplyorder.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-19 16:57:00
+ * @since 1.0, 2022-12-07 19:04:53
  */
 class AntMerchantExpandMapplyorderQueryRequest
 {

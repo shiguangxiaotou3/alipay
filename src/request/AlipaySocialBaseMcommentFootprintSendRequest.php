@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.mcomment.footprint.send request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 15:05:10
+ * @since 1.0, 2023-02-13 14:53:35
  */
 class AlipaySocialBaseMcommentFootprintSendRequest
 {

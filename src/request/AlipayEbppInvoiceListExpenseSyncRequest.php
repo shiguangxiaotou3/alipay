@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.list.expense.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-19 16:51:33
+ * @since 1.0, 2023-02-08 18:51:54
  */
 class AlipayEbppInvoiceListExpenseSyncRequest
 {

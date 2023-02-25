@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.goods.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-11 18:46:28
+ * @since 1.0, 2023-01-11 07:59:17
  */
 class AlipayPcreditHuabeiGoodsOrderSyncRequest
 {

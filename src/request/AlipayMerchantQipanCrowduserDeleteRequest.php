@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.qipan.crowduser.delete request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 15:41:54
+ * @since 1.0, 2023-01-18 01:05:37
  */
 class AlipayMerchantQipanCrowduserDeleteRequest
 {

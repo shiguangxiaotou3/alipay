@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.sign.index.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 20:21:51
+ * @since 1.0, 2023-01-11 09:26:40
  */
 class AnttechBlockchainSignIndexCreateRequest
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.normalpay.order.refund request
  *

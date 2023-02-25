@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.logical.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 16:56:42
+ * @since 1.0, 2023-01-04 19:47:00
  */
 class DatadigitalFincloudFinsaasCrowdLogicalCreateRequest
 {

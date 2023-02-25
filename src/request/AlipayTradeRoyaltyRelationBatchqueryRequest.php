@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.royalty.relation.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-25 11:51:48
+ * @since 1.0, 2023-01-13 16:22:45
  */
 class AlipayTradeRoyaltyRelationBatchqueryRequest
 {

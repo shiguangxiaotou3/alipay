@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.secondmerchant.offline.maintain request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:41:39
+ * @since 1.0, 2023-01-11 07:49:05
  */
 class AlipayOverseasSecondmerchantOfflineMaintainRequest
 {

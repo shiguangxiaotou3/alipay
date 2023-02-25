@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pay.codec.acode.decode.use request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:09
+ * @since 1.0, 2023-01-11 05:31:15
  */
 class AlipayPayCodecAcodeDecodeUseRequest
 {

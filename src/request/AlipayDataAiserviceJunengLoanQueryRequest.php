@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.juneng.loan.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:07
+ * @since 1.0, 2023-01-11 03:48:47
  */
 class AlipayDataAiserviceJunengLoanQueryRequest
 {

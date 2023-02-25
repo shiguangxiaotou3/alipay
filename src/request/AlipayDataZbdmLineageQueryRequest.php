@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.zbdm.lineage.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 14:19:24
+ * @since 1.0, 2023-01-10 22:48:52
  */
 class AlipayDataZbdmLineageQueryRequest
 {

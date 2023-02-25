@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.contract.common.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 10:50:17
+ * @since 1.0, 2023-01-04 18:55:23
  */
 class ZhimaMerchantContractCommonCancelRequest
 {

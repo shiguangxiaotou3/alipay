@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.recycle.charity.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-27 19:51:44
+ * @since 1.0, 2023-01-04 23:18:41
  */
 class AlipayCommerceRecycleCharityQueryRequest
 {

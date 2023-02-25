@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.ec.employee.idlist.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 13:21:34
+ * @since 1.0, 2023-01-10 14:17:09
  */
 class AlipayCommerceEcEmployeeIdlistQueryRequest
 {

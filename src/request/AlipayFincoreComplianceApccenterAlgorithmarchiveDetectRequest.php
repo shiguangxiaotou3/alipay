@@ -1,5 +1,5 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.compliance.apccenter.algorithmarchive.detect request
  *

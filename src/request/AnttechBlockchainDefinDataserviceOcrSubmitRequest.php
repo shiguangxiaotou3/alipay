@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.dataservice.ocr.submit request
  *
  * @author auto create
- * @since 1.0, 2021-08-12 11:14:11
+ * @since 1.0, 2023-01-11 00:25:11
  */
 class AnttechBlockchainDefinDataserviceOcrSubmitRequest
 {

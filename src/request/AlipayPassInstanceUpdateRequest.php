@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pass.instance.update request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:21:35
+ * @since 1.0, 2023-01-04 20:46:39
  */
 class AlipayPassInstanceUpdateRequest
 {

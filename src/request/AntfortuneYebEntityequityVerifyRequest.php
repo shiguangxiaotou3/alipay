@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.yeb.entityequity.verify request
  *
  * @author auto create
- * @since 1.0, 2021-11-12 10:55:30
+ * @since 1.0, 2023-01-11 00:43:53
  */
 class AntfortuneYebEntityequityVerifyRequest
 {

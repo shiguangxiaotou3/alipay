@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.auto.user.msg.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-12 14:45:00
+ * @since 1.0, 2023-01-11 03:06:46
  */
 class AlipayInsAutoUserMsgSendRequest
 {

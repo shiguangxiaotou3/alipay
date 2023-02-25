@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loantrade.guarletter.apply.refund request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 18:49:41
+ * @since 1.0, 2023-01-11 08:12:03
  */
 class MybankCreditLoantradeGuarletterApplyRefundRequest
 {

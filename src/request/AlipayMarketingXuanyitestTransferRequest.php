@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.xuanyitest.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:35:36
+ * @since 1.0, 2023-01-04 19:51:14
  */
 class AlipayMarketingXuanyitestTransferRequest
 {

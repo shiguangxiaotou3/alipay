@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.activity.gift.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-29 11:07:59
+ * @since 1.0, 2023-01-11 05:40:06
  */
 class AlipayOpenMiniActivityGiftQueryRequest
 {

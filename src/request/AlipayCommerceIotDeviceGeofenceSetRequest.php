@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.device.geofence.set request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:42:16
+ * @since 1.0, 2023-01-10 22:32:13
  */
 class AlipayCommerceIotDeviceGeofenceSetRequest
 {

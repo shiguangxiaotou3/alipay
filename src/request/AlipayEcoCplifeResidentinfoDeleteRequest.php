@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cplife.residentinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:42:15
+ * @since 1.0, 2023-01-04 21:38:45
  */
 class AlipayEcoCplifeResidentinfoDeleteRequest
 {

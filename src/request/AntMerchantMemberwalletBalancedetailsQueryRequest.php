@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.memberwallet.balancedetails.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 15:21:42
+ * @since 1.0, 2022-12-07 15:26:48
  */
 class AntMerchantMemberwalletBalancedetailsQueryRequest
 {

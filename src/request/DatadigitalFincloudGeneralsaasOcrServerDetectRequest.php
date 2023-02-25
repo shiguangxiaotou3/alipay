@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.server.detect request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 14:01:47
+ * @since 1.0, 2023-01-04 19:56:43
  */
 class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
 {
@@ -14,7 +14,7 @@ class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
 	private $fileContent;
 	
 	/** 
-	 * 可识别OCR类型。如，ID_CARD_FRONT 身份证正面；ID_CARD_FRONT 身份证反面等。具体支持的类型以接入文档为准。
+	 * 可识别OCR类型。如，ID_CARD_FRONT 大陆身份证正面；ID_CARD_BACK 大陆身份证反面等。具体支持的类型以接入文档为准。
 	 **/
 	private $ocrType;
 	

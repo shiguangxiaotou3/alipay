@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.account.binding.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:51:51
+ * @since 1.0, 2023-02-01 14:11:38
  */
 class AlipayUserAccountBindingSyncRequest
 {

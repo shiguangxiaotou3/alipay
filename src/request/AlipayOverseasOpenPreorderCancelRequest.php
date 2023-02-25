@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.open.preorder.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 12:14:10
+ * @since 1.0, 2023-01-11 07:18:29
  */
 class AlipayOverseasOpenPreorderCancelRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.mobile.code.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 09:49:24
+ * @since 1.0, 2023-01-04 22:55:54
  */
 class AlipayInsSceneMobileCodeQueryRequest
 {

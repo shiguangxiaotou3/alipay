@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.shopcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 11:11:38
+ * @since 1.0, 2023-01-11 07:00:43
  */
 class AlipayCommerceIotShopcodeQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.agreement.userverify.apply request
  *
  * @author auto create
- * @since 1.0, 2020-07-08 14:02:30
+ * @since 1.0, 2023-01-04 22:18:44
  */
 class AlipayUserAgreementUserverifyApplyRequest
 {

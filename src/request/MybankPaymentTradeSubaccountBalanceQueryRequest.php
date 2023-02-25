@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.subaccount.balance.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 16:15:29
+ * @since 1.0, 2023-01-11 07:37:52
  */
 class MybankPaymentTradeSubaccountBalanceQueryRequest
 {

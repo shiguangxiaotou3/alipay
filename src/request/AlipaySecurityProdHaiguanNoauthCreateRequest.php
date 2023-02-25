@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.haiguan.noauth.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-09 11:31:46
+ * @since 1.0, 2022-12-07 18:30:56
  */
 class AlipaySecurityProdHaiguanNoauthCreateRequest
 {

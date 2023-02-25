@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.lottery.region.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:53:09
+ * @since 1.0, 2023-01-10 22:51:49
  */
 class AlipayOpenLotteryRegionModifyRequest
 {

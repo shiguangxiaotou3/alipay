@@ -1,5 +1,5 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: aft.aifin.newtest.query request
  *

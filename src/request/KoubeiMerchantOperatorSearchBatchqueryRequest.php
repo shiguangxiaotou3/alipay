@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.merchant.operator.search.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:46:37
+ * @since 1.0, 2023-01-05 10:55:32
  */
 class KoubeiMerchantOperatorSearchBatchqueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.ep.product.code.apply request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 15:11:02
+ * @since 1.0, 2023-01-11 04:54:58
  */
 class ZhimaCreditEpProductCodeApplyRequest
 {

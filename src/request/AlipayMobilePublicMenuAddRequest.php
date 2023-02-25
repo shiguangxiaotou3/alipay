@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.mobile.public.menu.add request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:57:02
+ * @since 1.0, 2023-01-04 17:45:55
  */
 class AlipayMobilePublicMenuAddRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.marketing.campaign.prize.list.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-23 14:23:40
+ * @since 1.0, 2023-01-05 10:26:47
  */
 class MybankMarketingCampaignPrizeListQueryRequest
 {

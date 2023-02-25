@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.printer.tasks.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:06:37
+ * @since 1.0, 2023-01-10 22:42:41
  */
 class AlipayDataPrinterTasksCancelRequest
 {

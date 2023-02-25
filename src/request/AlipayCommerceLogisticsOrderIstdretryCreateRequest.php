@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.order.istdretry.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 10:36:36
+ * @since 1.0, 2023-02-17 11:37:40
  */
 class AlipayCommerceLogisticsOrderIstdretryCreateRequest
 {

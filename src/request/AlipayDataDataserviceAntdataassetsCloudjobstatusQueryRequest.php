@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.antdataassets.cloudjobstatus.query request
  *
  * @author auto create
- * @since 1.0, 2019-04-30 14:23:07
+ * @since 1.0, 2023-01-10 22:15:52
  */
 class AlipayDataDataserviceAntdataassetsCloudjobstatusQueryRequest
 {

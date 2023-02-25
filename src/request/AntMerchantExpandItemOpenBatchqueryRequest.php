@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.item.open.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:03:48
+ * @since 1.0, 2023-01-04 18:19:31
  */
 class AntMerchantExpandItemOpenBatchqueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.mobile.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 17:47:29
+ * @since 1.0, 2023-01-04 19:36:45
  */
 class DatadigitalFincloudGeneralsaasOcrMobileInitializeRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.account.cashpool.basic.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-06 11:21:20
+ * @since 1.0, 2023-01-11 06:24:51
  */
 class AlipayAccountCashpoolBasicQueryRequest
 {

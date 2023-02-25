@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.bizdata.templatemessage.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-03 20:10:12
+ * @since 1.0, 2023-01-05 01:01:42
  */
 class AlipayOpenMiniBizdataTemplatemessageDeleteRequest
 {

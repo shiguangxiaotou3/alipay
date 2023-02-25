@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.facepay.bill.pay request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 14:31:15
+ * @since 1.0, 2023-01-05 10:25:10
  */
 class AlipayEbppFacepayBillPayRequest
 {

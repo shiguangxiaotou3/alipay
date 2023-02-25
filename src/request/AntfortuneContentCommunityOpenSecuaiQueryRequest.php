@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.content.community.open.secuai.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-27 16:50:04
+ * @since 1.0, 2023-01-11 05:03:49
  */
 class AntfortuneContentCommunityOpenSecuaiQueryRequest
 {

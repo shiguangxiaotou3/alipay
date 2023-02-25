@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.fingerprint.apply.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:43:07
+ * @since 1.0, 2023-01-04 21:45:45
  */
 class AlipaySecurityProdFingerprintApplyInitializeRequest
 {

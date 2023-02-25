@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.operation.bizfee.aftech.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2019-07-08 21:12:51
+ * @since 1.0, 2023-01-10 22:19:21
  */
 class AlipayOpenOperationBizfeeAftechUnsubscribeRequest
 {

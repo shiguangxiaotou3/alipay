@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.bc.cluster.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 19:29:06
+ * @since 1.0, 2023-01-04 23:03:04
  */
 class AlipaySocialBaseBcClusterQueryRequest
 {

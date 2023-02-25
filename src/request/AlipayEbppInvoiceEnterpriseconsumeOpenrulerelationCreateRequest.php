@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.enterpriseconsume.openrulerelation.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:55:17
+ * @since 1.0, 2023-01-05 01:07:30
  */
 class AlipayEbppInvoiceEnterpriseconsumeOpenrulerelationCreateRequest
 {

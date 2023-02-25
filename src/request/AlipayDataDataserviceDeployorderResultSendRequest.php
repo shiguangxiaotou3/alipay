@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.deployorder.result.send request
  *
  * @author auto create
- * @since 1.0, 2019-08-14 15:14:01
+ * @since 1.0, 2023-01-11 03:56:00
  */
 class AlipayDataDataserviceDeployorderResultSendRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.yuntask.detail.get request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 13:31:47
+ * @since 1.0, 2022-12-07 20:56:15
  */
 class AlipayCommerceYuntaskDetailGetRequest
 {

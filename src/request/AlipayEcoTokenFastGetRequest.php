@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.token.fast.get request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:54:51
+ * @since 1.0, 2023-01-11 05:33:07
  */
 class AlipayEcoTokenFastGetRequest
 {

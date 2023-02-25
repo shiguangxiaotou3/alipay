@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.invite.order.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:49:57
+ * @since 1.0, 2023-02-07 16:47:32
  */
 class AlipayOpenInviteOrderCreateRequest
 {

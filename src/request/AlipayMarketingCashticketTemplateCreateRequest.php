@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.cashticket.template.create request
  *
  * @author auto create
- * @since 1.0, 2021-10-14 16:20:18
+ * @since 1.0, 2023-01-11 05:39:18
  */
 class AlipayMarketingCashticketTemplateCreateRequest
 {

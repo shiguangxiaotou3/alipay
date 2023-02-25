@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.item.file.upload request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:55:41
+ * @since 1.0, 2023-01-05 01:11:37
  */
 class AlipayMerchantItemFileUploadRequest
 {

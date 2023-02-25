@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.sceneprod.sign.consult request
  *
  * @author auto create
- * @since 1.0, 2021-04-27 11:35:34
+ * @since 1.0, 2022-12-08 11:32:44
  */
 class MybankCreditSceneprodSignConsultRequest
 {

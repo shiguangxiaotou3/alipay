@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.cancelstockoutorder.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-30 23:35:01
+ * @since 1.0, 2023-01-05 11:41:50
  */
 class KoubeiSalesKbassetStuffCancelstockoutorderQueryRequest
 {

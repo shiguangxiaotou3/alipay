@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.account.invited.convert.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 18:09:06
+ * @since 1.0, 2023-01-11 10:16:38
  */
 class AlipayUserAccountInvitedConvertSyncRequest
 {

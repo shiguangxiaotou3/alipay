@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.quanyibao.pointdeduct.submit request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 19:13:48
+ * @since 1.0, 2023-01-04 21:01:41
  */
 class AlipayUserQuanyibaoPointdeductSubmitRequest
 {

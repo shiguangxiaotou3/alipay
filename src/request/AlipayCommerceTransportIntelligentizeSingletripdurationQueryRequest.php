@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.intelligentize.singletripduration.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:43:55
+ * @since 1.0, 2023-01-04 22:35:18
  */
 class AlipayCommerceTransportIntelligentizeSingletripdurationQueryRequest
 {

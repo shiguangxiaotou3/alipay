@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.bank.activity.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 21:11:52
+ * @since 1.0, 2023-01-11 08:56:40
  */
 class AlipayCommerceOperationBankActivityQueryRequest
 {

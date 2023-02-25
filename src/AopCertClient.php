@@ -1,11 +1,9 @@
 <?php
-namespace Shiguangxiaotou\Alipay;
+namespace  shiguangxiaotou\alipay;
+use shiguangxiaotou\alipay\EncryptParseItem;
+use shiguangxiaotou\alipay\EncryptResponseData;
+use shiguangxiaotou\alipay\SignData;
 
-
-use Shiguangxiaotou\Alipay\EncryptParseItem;
-use Shiguangxiaotou\Alipay\EncryptResponseData;
-
-//use Shiguangxiaotou\Alipay\AopEncrypt;
 require_once 'AopEncrypt.php';
 require_once 'AopCertification.php';
 //require_once 'EncryptParseItem.php';
@@ -65,7 +63,7 @@ class AopCertClient
 
     public $encryptType = "AES";
 
-    protected $alipaySdkVersion = "alipay-sdk-php-2020-04-15";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.19.52.ALL";
 
     private $fileCharset = "UTF-8";
 

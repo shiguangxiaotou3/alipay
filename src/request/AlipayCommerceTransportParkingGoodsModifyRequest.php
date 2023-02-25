@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.parking.goods.modify request
  *
  * @author auto create
- * @since 1.0, 2020-06-22 17:12:31
+ * @since 1.0, 2023-01-10 23:00:23
  */
 class AlipayCommerceTransportParkingGoodsModifyRequest
 {

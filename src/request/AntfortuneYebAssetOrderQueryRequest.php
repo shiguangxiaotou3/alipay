@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.yeb.asset.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-26 17:25:15
+ * @since 1.0, 2023-01-11 00:06:14
  */
 class AntfortuneYebAssetOrderQueryRequest
 {

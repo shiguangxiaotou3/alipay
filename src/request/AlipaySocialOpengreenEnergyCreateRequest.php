@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.opengreen.energy.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-13 19:36:42
+ * @since 1.0, 2023-01-11 01:11:31
  */
 class AlipaySocialOpengreenEnergyCreateRequest
 {

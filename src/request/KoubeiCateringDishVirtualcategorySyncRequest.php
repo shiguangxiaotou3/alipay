@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.dish.virtualcategory.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:35:26
+ * @since 1.0, 2023-01-11 07:29:14
  */
 class KoubeiCateringDishVirtualcategorySyncRequest
 {

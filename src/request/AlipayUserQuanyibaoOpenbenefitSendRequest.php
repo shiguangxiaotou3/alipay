@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.quanyibao.openbenefit.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 19:14:17
+ * @since 1.0, 2023-01-04 20:56:38
  */
 class AlipayUserQuanyibaoOpenbenefitSendRequest
 {

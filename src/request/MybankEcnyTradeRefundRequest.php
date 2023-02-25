@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.ecny.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:39:53
+ * @since 1.0, 2023-01-11 08:39:30
  */
 class MybankEcnyTradeRefundRequest
 {

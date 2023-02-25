@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.gift.stock.upload request
  *
  * @author auto create
- * @since 1.0, 2021-08-17 15:50:26
+ * @since 1.0, 2023-01-11 04:30:43
  */
 class AlipaySocialGiftStockUploadRequest
 {

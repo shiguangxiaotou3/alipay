@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.design.page.publish request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 15:01:39
+ * @since 1.0, 2023-01-11 08:27:41
  */
 class DatadigitalFincloudFinsaasDesignPagePublishRequest
 {

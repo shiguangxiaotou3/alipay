@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.subaccount.balance.freeze request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 19:45:14
+ * @since 1.0, 2023-01-11 06:45:58
  */
 class AlipayBossFncSubaccountBalanceFreezeRequest
 {

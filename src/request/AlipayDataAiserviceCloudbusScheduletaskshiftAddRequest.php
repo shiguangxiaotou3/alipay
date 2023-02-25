@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.scheduletaskshift.add request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:36:28
+ * @since 1.0, 2023-01-11 06:05:34
  */
 class AlipayDataAiserviceCloudbusScheduletaskshiftAddRequest
 {

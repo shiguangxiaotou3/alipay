@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.wallet.scene.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 14:54:23
+ * @since 1.0, 2023-01-31 01:36:37
  */
 class AlipayFundWalletSceneSignRequest
 {

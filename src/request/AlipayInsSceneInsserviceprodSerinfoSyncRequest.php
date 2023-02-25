@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.insserviceprod.serinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 14:45:17
+ * @since 1.0, 2023-01-11 00:00:55
  */
 class AlipayInsSceneInsserviceprodSerinfoSyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.saas.payment.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 22:31:46
+ * @since 1.0, 2023-01-04 23:39:58
  */
 class AnttechBlockchainDefinSaasPaymentCancelRequest
 {

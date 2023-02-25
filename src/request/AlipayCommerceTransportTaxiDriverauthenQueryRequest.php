@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.driverauthen.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:26:34
+ * @since 1.0, 2023-01-11 09:11:41
  */
 class AlipayCommerceTransportTaxiDriverauthenQueryRequest
 {

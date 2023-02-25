@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.antifraud.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-02-01 11:36:19
+ * @since 1.0, 2023-01-11 03:46:54
  */
 class AlipaySecurityRiskAntifraudBatchqueryRequest
 {

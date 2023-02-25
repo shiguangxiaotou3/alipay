@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cplife.community.modify request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:34:01
+ * @since 1.0, 2023-01-04 17:55:14
  */
 class AlipayEcoCplifeCommunityModifyRequest
 {

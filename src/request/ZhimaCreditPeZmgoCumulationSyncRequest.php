@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.cumulation.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 12:59:02
+ * @since 1.0, 2023-01-04 22:40:09
  */
 class ZhimaCreditPeZmgoCumulationSyncRequest
 {

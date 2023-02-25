@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.innerversion.auditstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:03:27
+ * @since 1.0, 2023-01-05 10:40:19
  */
 class AlipayOpenMiniInnerversionAuditstatusModifyRequest
 {

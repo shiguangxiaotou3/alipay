@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.applepay.provisioningbundle.effect request
  *
  * @author auto create
- * @since 1.0, 2020-05-29 10:24:09
+ * @since 1.0, 2023-01-11 06:16:35
  */
 class AlipayUserApplepayProvisioningbundleEffectRequest
 {

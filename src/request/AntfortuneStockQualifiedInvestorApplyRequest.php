@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.stock.qualified.investor.apply request
  *
  * @author auto create
- * @since 1.0, 2022-01-20 11:15:37
+ * @since 1.0, 2023-01-11 00:52:32
  */
 class AntfortuneStockQualifiedInvestorApplyRequest
 {

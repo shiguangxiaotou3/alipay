@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.equity.instpoint.prize.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-01 11:19:51
+ * @since 1.0, 2023-01-11 05:04:57
  */
 class AntfortuneEquityInstpointPrizeQueryRequest
 {

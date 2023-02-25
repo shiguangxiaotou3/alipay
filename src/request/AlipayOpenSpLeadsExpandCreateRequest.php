@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.sp.leads.expand.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-12 14:51:40
+ * @since 1.0, 2023-01-04 19:34:41
  */
 class AlipayOpenSpLeadsExpandCreateRequest
 {

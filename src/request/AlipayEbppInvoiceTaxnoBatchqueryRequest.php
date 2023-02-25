@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.taxno.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-19 16:51:33
+ * @since 1.0, 2023-02-22 10:07:16
  */
 class AlipayEbppInvoiceTaxnoBatchqueryRequest
 {

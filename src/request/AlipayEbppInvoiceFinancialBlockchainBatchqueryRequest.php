@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.financial.blockchain.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:43:56
+ * @since 1.0, 2023-01-05 11:21:28
  */
 class AlipayEbppInvoiceFinancialBlockchainBatchqueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.trade.order.precreate request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 13:52:54
+ * @since 1.0, 2023-01-04 22:01:35
  */
 class KoubeiTradeOrderPrecreateRequest
 {

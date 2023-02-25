@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.industry.proxy.use request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 17:36:53
+ * @since 1.0, 2023-01-11 13:16:40
  */
 class AlipayCommerceTransportIndustryProxyUseRequest
 {

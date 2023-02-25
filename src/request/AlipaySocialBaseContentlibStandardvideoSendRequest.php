@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.contentlib.standardvideo.send request
  *
  * @author auto create
- * @since 1.0, 2020-07-03 20:38:56
+ * @since 1.0, 2023-01-05 11:26:39
  */
 class AlipaySocialBaseContentlibStandardvideoSendRequest
 {

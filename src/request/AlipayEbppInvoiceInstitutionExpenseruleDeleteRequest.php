@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.institution.expenserule.delete request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 09:43:29
+ * @since 1.0, 2023-01-04 19:53:02
  */
 class AlipayEbppInvoiceInstitutionExpenseruleDeleteRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.order.createandpay request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 11:52:31
+ * @since 1.0, 2023-02-13 13:26:39
  */
 class AlipayMerchantOrderCreateandpayRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.mobile.screen.apply request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 17:42:13
+ * @since 1.0, 2022-12-07 16:47:53
  */
 class AlipayInsSceneMobileScreenApplyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.contentlib.offer.sync request
  *
  * @author auto create
- * @since 1.0, 2020-07-03 20:38:12
+ * @since 1.0, 2023-01-05 10:49:32
  */
 class AlipaySocialBaseContentlibOfferSyncRequest
 {

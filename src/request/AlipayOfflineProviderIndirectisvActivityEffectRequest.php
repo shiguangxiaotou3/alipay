@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.offline.provider.indirectisv.activity.effect request
  *
  * @author auto create
- * @since 1.0, 2021-12-20 17:36:50
+ * @since 1.0, 2023-01-11 00:47:40
  */
 class AlipayOfflineProviderIndirectisvActivityEffectRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.billinvoice.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-18 16:25:33
+ * @since 1.0, 2023-01-11 00:41:59
  */
 class AlipayBossFncGfsettleprodBillinvoiceQueryRequest
 {

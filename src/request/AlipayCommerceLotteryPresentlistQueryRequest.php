@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.lottery.presentlist.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-14 15:46:59
+ * @since 1.0, 2023-01-04 22:39:51
  */
 class AlipayCommerceLotteryPresentlistQueryRequest
 {

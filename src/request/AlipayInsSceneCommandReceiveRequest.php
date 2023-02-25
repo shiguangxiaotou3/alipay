@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.command.receive request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 18:36:07
+ * @since 1.0, 2023-01-05 11:34:46
  */
 class AlipayInsSceneCommandReceiveRequest
 {

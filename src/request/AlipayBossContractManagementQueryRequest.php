@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.contract.management.query request
  *
  * @author auto create
- * @since 1.0, 2019-12-23 13:59:35
+ * @since 1.0, 2023-01-11 05:38:45
  */
 class AlipayBossContractManagementQueryRequest
 {

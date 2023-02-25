@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.authentication.consistency.check request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 11:01:49
+ * @since 1.0, 2022-12-07 16:35:10
  */
 class AlipayUserAuthenticationConsistencyCheckRequest
 {

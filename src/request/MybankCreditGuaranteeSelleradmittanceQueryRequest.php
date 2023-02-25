@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.guarantee.selleradmittance.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 15:25:08
+ * @since 1.0, 2023-01-10 23:02:31
  */
 class MybankCreditGuaranteeSelleradmittanceQueryRequest
 {

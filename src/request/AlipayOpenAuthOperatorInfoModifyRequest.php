@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.auth.operator.info.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 17:38:08
+ * @since 1.0, 2023-01-11 06:46:47
  */
 class AlipayOpenAuthOperatorInfoModifyRequest
 {

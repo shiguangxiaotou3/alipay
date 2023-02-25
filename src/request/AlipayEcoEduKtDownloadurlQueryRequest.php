@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.edu.kt.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-30 17:10:27
+ * @since 1.0, 2023-01-11 07:39:28
  */
 class AlipayEcoEduKtDownloadurlQueryRequest
 {

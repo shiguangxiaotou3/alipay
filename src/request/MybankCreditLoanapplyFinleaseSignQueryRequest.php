@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.finlease.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 13:46:54
+ * @since 1.0, 2023-02-03 14:46:39
  */
 class MybankCreditLoanapplyFinleaseSignQueryRequest
 {

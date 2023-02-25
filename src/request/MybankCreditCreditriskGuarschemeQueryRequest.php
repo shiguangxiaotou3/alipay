@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.creditrisk.guarscheme.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:48:02
+ * @since 1.0, 2022-12-08 06:11:01
  */
 class MybankCreditCreditriskGuarschemeQueryRequest
 {

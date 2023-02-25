@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.intelligentize.timetable.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:45:32
+ * @since 1.0, 2023-01-04 19:22:21
  */
 class AlipayCommerceTransportIntelligentizeTimetableCreateRequest
 {

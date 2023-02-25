@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.enterpriseexctrl.employertitle.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 09:59:25
+ * @since 1.0, 2023-01-05 00:56:39
  */
 class AlipayEbppInvoiceEnterpriseexctrlEmployertitleCreateRequest
 {

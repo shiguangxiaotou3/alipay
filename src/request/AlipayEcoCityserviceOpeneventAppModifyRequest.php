@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cityservice.openevent.app.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 11:51:48
+ * @since 1.0, 2023-01-04 20:16:52
  */
 class AlipayEcoCityserviceOpeneventAppModifyRequest
 {

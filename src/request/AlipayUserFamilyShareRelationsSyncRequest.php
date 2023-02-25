@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.family.share.relations.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-14 11:27:35
+ * @since 1.0, 2023-01-03 10:55:06
  */
 class AlipayUserFamilyShareRelationsSyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.certify.customer.relativenum.apply request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 15:19:05
+ * @since 1.0, 2023-01-11 09:26:41
  */
 class AlipayUserCertifyCustomerRelativenumApplyRequest
 {

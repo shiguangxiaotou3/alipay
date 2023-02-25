@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.retail.wms.inboundwork.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:35:58
+ * @since 1.0, 2023-01-11 04:07:56
  */
 class KoubeiRetailWmsInboundworkDeleteRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.supplychain.prepayment.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:39:50
+ * @since 1.0, 2023-01-05 10:57:27
  */
 class MybankCreditSupplychainPrepaymentApplyRequest
 {

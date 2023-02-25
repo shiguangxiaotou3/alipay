@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.shortlink.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:01:09
+ * @since 1.0, 2023-01-04 21:50:14
  */
 class AlipayOpenPublicShortlinkCreateRequest
 {

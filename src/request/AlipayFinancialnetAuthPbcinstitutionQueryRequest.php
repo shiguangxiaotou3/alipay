@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.financialnet.auth.pbcinstitution.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 10:16:36
+ * @since 1.0, 2023-01-11 08:51:40
  */
 class AlipayFinancialnetAuthPbcinstitutionQueryRequest
 {

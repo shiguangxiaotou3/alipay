@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.edge.colorfeedback.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-20 14:35:21
+ * @since 1.0, 2023-01-11 07:25:29
  */
 class AlipaySecurityProdEdgeColorfeedbackCreateRequest
 {

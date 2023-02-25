@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.wufufuka.aliyun.exchange request
  *
  * @author auto create
- * @since 1.0, 2022-01-16 22:01:40
+ * @since 1.0, 2023-01-11 08:00:38
  */
 class AlipayUserWufufukaAliyunExchangeRequest
 {

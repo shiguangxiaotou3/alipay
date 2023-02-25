@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.isv.status.sync request
  *
  * @author auto create
- * @since 1.0, 2021-09-18 11:45:53
+ * @since 1.0, 2023-01-11 00:35:13
  */
 class AlipayCommerceOperationIsvStatusSyncRequest
 {

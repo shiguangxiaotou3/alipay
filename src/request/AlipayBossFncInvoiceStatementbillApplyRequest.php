@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.invoice.statementbill.apply request
  *
  * @author auto create
- * @since 1.0, 2019-09-05 16:28:12
+ * @since 1.0, 2023-01-11 05:31:47
  */
 class AlipayBossFncInvoiceStatementbillApplyRequest
 {

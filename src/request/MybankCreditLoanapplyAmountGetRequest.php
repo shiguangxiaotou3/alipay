@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.amount.get request
  *
  * @author auto create
- * @since 1.0, 2021-09-23 19:22:47
+ * @since 1.0, 2023-01-11 07:43:32
  */
 class MybankCreditLoanapplyAmountGetRequest
 {

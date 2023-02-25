@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.credit.product.sign request
  *
  * @author auto create
- * @since 1.0, 2020-05-11 22:25:09
+ * @since 1.0, 2023-01-11 02:56:37
  */
 class AlipayTradeCreditProductSignRequest
 {

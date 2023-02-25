@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.identification.user.web.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 17:51:46
+ * @since 1.0, 2023-01-04 18:07:41
  */
 class ZolozIdentificationUserWebQueryRequest
 {

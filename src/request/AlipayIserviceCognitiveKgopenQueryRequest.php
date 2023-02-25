@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.cognitive.kgopen.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-19 23:50:43
+ * @since 1.0, 2023-01-11 05:50:00
  */
 class AlipayIserviceCognitiveKgopenQueryRequest
 {

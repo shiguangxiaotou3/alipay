@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.travel.shop.follow request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 10:41:50
+ * @since 1.0, 2023-01-11 02:11:40
  */
 class AlipayOverseasTravelShopFollowRequest
 {

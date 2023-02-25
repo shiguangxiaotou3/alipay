@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.sports.venue.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-06 16:45:17
+ * @since 1.0, 2023-01-11 07:15:47
  */
 class AlipayCommerceSportsVenueOrderQueryRequest
 {

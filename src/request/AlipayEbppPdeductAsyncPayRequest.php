@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.async.pay request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 15:46:35
+ * @since 1.0, 2023-01-11 09:06:44
  */
 class AlipayEbppPdeductAsyncPayRequest
 {

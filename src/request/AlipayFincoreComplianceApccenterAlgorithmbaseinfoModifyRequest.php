@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.compliance.apccenter.algorithmbaseinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 17:13:04
+ * @since 1.0, 2023-01-11 08:13:40
  */
 class AlipayFincoreComplianceApccenterAlgorithmbaseinfoModifyRequest
 {

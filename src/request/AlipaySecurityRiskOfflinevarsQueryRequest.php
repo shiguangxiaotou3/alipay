@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.offlinevars.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 16:07:45
+ * @since 1.0, 2023-01-11 04:20:17
  */
 class AlipaySecurityRiskOfflinevarsQueryRequest
 {

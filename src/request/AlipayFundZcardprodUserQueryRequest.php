@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.zcardprod.user.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 15:11:29
+ * @since 1.0, 2023-01-11 08:46:48
  */
 class AlipayFundZcardprodUserQueryRequest
 {

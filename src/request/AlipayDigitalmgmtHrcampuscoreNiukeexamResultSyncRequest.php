@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.digitalmgmt.hrcampuscore.niukeexam.result.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 21:36:54
+ * @since 1.0, 2023-01-04 19:27:16
  */
 class AlipayDigitalmgmtHrcampuscoreNiukeexamResultSyncRequest
 {

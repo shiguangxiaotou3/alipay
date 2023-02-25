@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.identitypay.member.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 01:36:52
+ * @since 1.0, 2023-01-11 03:01:38
  */
 class AlipayFundIdentitypayMemberQueryRequest
 {

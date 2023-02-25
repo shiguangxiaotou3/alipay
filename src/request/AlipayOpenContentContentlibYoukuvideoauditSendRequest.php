@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.content.contentlib.youkuvideoaudit.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:47:48
+ * @since 1.0, 2023-01-11 06:08:33
  */
 class AlipayOpenContentContentlibYoukuvideoauditSendRequest
 {

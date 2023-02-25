@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.hufu.auth.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 13:51:58
+ * @since 1.0, 2023-01-05 11:32:36
  */
 class AlipaySecurityRiskHufuAuthQueryRequest
 {

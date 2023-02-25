@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.facefeature.file.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 15:20:25
+ * @since 1.0, 2023-01-11 05:41:26
  */
 class AlipayCommerceEducateFacefeatureFileApplyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.prod.antlaw.orderhitstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-28 20:13:37
+ * @since 1.0, 2023-01-11 08:00:05
  */
 class AlipayBossProdAntlawOrderhitstatusQueryRequest
 {

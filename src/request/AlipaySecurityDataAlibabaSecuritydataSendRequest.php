@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.data.alibaba.securitydata.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 12:01:37
+ * @since 1.0, 2023-01-11 02:21:41
  */
 class AlipaySecurityDataAlibabaSecuritydataSendRequest
 {

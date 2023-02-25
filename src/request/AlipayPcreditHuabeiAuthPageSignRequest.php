@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.page.sign request
  *
  * @author auto create
- * @since 1.0, 2019-03-05 13:45:44
+ * @since 1.0, 2022-12-28 15:54:06
  */
 class AlipayPcreditHuabeiAuthPageSignRequest
 {

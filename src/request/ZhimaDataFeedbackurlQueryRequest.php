@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.data.feedbackurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:09:00
+ * @since 1.0, 2023-01-04 17:54:07
  */
 class ZhimaDataFeedbackurlQueryRequest
 {

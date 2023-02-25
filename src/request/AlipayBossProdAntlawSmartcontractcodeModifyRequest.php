@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.prod.antlaw.smartcontractcode.modify request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 20:45:08
+ * @since 1.0, 2023-01-11 06:32:20
  */
 class AlipayBossProdAntlawSmartcontractcodeModifyRequest
 {

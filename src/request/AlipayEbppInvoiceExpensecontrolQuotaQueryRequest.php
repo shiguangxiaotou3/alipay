@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.quota.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 23:41:34
+ * @since 1.0, 2023-02-16 16:53:40
  */
 class AlipayEbppInvoiceExpensecontrolQuotaQueryRequest
 {

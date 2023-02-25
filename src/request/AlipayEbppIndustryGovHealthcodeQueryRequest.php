@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.industry.gov.healthcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:14:05
+ * @since 1.0, 2022-12-08 05:19:45
  */
 class AlipayEbppIndustryGovHealthcodeQueryRequest
 {

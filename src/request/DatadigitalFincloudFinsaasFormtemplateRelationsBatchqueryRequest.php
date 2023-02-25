@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.formtemplate.relations.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 21:11:40
+ * @since 1.0, 2023-01-11 01:15:34
  */
 class DatadigitalFincloudFinsaasFormtemplateRelationsBatchqueryRequest
 {

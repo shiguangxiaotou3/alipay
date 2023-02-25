@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.digitalidentity.healthcard.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:19:39
+ * @since 1.0, 2023-01-10 23:49:23
  */
 class AlipayUserDigitalidentityHealthcardQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.certify.open.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 18:23:10
+ * @since 1.0, 2023-01-04 20:26:40
  */
 class AlipayUserCertifyOpenInitializeRequest
 {

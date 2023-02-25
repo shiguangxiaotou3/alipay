@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.discovery.taxi.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:07
+ * @since 1.0, 2023-01-05 09:59:14
  */
 class AlipayDiscoveryTaxiOrderConfirmRequest
 {

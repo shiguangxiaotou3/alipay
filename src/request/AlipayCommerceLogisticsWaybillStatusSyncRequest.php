@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.waybill.status.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:49:15
+ * @since 1.0, 2023-01-11 02:56:37
  */
 class AlipayCommerceLogisticsWaybillStatusSyncRequest
 {

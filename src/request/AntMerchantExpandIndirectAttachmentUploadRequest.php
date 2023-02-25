@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.indirect.attachment.upload request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 10:43:51
+ * @since 1.0, 2023-01-05 10:16:48
  */
 class AntMerchantExpandIndirectAttachmentUploadRequest
 {

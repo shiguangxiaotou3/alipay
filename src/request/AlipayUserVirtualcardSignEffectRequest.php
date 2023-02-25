@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.virtualcard.sign.effect request
  *
  * @author auto create
- * @since 1.0, 2022-11-12 21:11:47
+ * @since 1.0, 2023-01-05 10:37:06
  */
 class AlipayUserVirtualcardSignEffectRequest
 {

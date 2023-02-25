@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.rainscore.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 10:13:22
+ * @since 1.0, 2023-01-04 18:00:57
  */
 class AlipaySecurityRiskRainscoreQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.advertiser.material.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-16 16:42:42
+ * @since 1.0, 2023-01-10 22:24:25
  */
 class AlipayCommerceIotAdvertiserMaterialCreateRequest
 {

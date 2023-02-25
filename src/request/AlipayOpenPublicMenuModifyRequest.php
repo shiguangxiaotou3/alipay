@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.menu.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:29:46
+ * @since 1.0, 2023-01-04 17:57:13
  */
 class AlipayOpenPublicMenuModifyRequest
 {

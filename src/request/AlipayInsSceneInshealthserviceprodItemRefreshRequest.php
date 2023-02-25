@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.inshealthserviceprod.item.refresh request
  *
  * @author auto create
- * @since 1.0, 2022-03-15 15:13:39
+ * @since 1.0, 2023-01-11 08:02:31
  */
 class AlipayInsSceneInshealthserviceprodItemRefreshRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.offlinepay.virtualcard.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 18:10:05
+ * @since 1.0, 2022-12-08 17:09:25
  */
 class AlipayCommerceTransportOfflinepayVirtualcardSendRequest
 {

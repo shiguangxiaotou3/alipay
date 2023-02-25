@@ -1,5 +1,6 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Schema;
+namespace  shiguangxiaotou\alipay\schema;
+
 class Option
 {
     private $displayName;

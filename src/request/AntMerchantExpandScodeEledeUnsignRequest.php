@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.scode.elede.unsign request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:49:33
+ * @since 1.0, 2023-01-11 05:45:59
  */
 class AntMerchantExpandScodeEledeUnsignRequest
 {

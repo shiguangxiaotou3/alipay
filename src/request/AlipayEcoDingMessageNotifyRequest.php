@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.ding.message.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:43:21
+ * @since 1.0, 2023-01-10 22:33:33
  */
 class AlipayEcoDingMessageNotifyRequest
 {

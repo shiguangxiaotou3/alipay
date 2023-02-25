@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.account.reset request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 15:56:36
+ * @since 1.0, 2023-01-04 20:51:39
  */
 class AlipayOpenPublicAccountResetRequest
 {

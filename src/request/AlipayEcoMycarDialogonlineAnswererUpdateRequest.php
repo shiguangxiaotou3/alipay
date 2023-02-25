@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.dialogonline.answerer.update request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:47:57
+ * @since 1.0, 2023-01-05 10:06:16
  */
 class AlipayEcoMycarDialogonlineAnswererUpdateRequest
 {

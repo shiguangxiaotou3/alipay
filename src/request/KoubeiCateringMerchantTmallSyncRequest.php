@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.merchant.tmall.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 16:33:28
+ * @since 1.0, 2023-01-10 23:54:13
  */
 class KoubeiCateringMerchantTmallSyncRequest
 {

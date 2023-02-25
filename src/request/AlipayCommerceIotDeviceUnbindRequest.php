@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.device.unbind request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 15:23:02
+ * @since 1.0, 2023-01-11 07:02:19
  */
 class AlipayCommerceIotDeviceUnbindRequest
 {

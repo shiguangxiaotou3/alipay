@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.gamecenter.log.submit request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 15:46:37
+ * @since 1.0, 2023-01-04 21:01:41
  */
 class AlipayUserGamecenterLogSubmitRequest
 {

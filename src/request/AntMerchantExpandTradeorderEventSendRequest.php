@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.tradeorder.event.send request
  *
  * @author auto create
- * @since 1.0, 2019-01-21 21:15:00
+ * @since 1.0, 2023-01-11 04:51:11
  */
 class AntMerchantExpandTradeorderEventSendRequest
 {

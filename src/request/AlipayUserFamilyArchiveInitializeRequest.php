@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.family.archive.initialize request
  *
  * @author auto create
- * @since 1.0, 2020-07-28 10:10:11
+ * @since 1.0, 2023-01-04 18:32:04
  */
 class AlipayUserFamilyArchiveInitializeRequest
 {

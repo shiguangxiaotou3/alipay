@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loantrade.payer.ar.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 17:23:54
+ * @since 1.0, 2023-01-05 00:41:07
  */
 class MybankCreditLoantradePayerArConsultRequest
 {

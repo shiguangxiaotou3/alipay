@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.ai.cv.tfjs.modelversion.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-04-26 20:47:25
+ * @since 1.0, 2023-01-11 06:20:19
  */
 class AnttechAiCvTfjsModelversionBatchqueryRequest
 {

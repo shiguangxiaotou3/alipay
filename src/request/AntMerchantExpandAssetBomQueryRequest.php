@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.asset.bom.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-23 22:31:38
+ * @since 1.0, 2023-02-06 14:16:25
  */
 class AntMerchantExpandAssetBomQueryRequest
 {

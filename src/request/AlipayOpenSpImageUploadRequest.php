@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.sp.image.upload request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:01:51
+ * @since 1.0, 2023-01-04 18:53:05
  */
 class AlipayOpenSpImageUploadRequest
 {

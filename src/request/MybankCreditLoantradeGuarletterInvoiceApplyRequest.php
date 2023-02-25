@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loantrade.guarletter.invoice.apply request
  *
  * @author auto create
- * @since 1.0, 2022-08-24 17:36:42
+ * @since 1.0, 2023-01-11 08:12:36
  */
 class MybankCreditLoantradeGuarletterInvoiceApplyRequest
 {

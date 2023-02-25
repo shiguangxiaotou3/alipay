@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.tax.open.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:32:15
+ * @since 1.0, 2023-01-04 19:02:30
  */
 class MybankCreditLoanapplyTaxOpenSendRequest
 {

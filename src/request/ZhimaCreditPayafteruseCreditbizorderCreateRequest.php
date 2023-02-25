@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.payafteruse.creditbizorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 17:16:37
+ * @since 1.0, 2023-01-13 13:50:30
  */
 class ZhimaCreditPayafteruseCreditbizorderCreateRequest
 {

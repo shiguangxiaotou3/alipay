@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.inneraccount.pid.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:41:45
+ * @since 1.0, 2023-01-05 10:39:31
  */
 class AlipayOpenMiniInneraccountPidQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.supplychain.ar.sign request
  *
  * @author auto create
- * @since 1.0, 2019-04-11 17:25:05
+ * @since 1.0, 2023-01-11 04:59:16
  */
 class MybankCreditSupplychainArSignRequest
 {

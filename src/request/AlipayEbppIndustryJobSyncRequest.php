@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.industry.job.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 16:15:23
+ * @since 1.0, 2023-01-11 02:36:38
  */
 class AlipayEbppIndustryJobSyncRequest
 {

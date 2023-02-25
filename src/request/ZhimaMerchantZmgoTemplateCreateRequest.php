@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.zmgo.template.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 17:42:01
+ * @since 1.0, 2023-01-04 21:11:38
  */
 class ZhimaMerchantZmgoTemplateCreateRequest
 {

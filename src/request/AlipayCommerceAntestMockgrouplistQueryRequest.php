@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.antest.mockgrouplist.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 15:50:09
+ * @since 1.0, 2023-01-11 06:18:59
  */
 class AlipayCommerceAntestMockgrouplistQueryRequest
 {

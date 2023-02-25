@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.air.xfg.dsg.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-06 09:57:35
+ * @since 1.0, 2023-01-04 21:55:39
  */
 class AlipayCommerceAirXfgDsgModifyRequest
 {

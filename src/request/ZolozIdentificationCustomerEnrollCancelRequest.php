@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.identification.customer.enroll.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-04-14 20:41:42
+ * @since 1.0, 2023-01-11 08:09:37
  */
 class ZolozIdentificationCustomerEnrollCancelRequest
 {

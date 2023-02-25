@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.trade.ticket.userticketcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-09 20:13:20
+ * @since 1.0, 2023-01-11 05:39:50
  */
 class KoubeiTradeTicketUserticketcodeQueryRequest
 {

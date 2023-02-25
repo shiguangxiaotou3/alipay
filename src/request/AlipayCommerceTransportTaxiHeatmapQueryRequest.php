@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.heatmap.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 19:16:52
+ * @since 1.0, 2023-01-11 08:46:49
  */
 class AlipayCommerceTransportTaxiHeatmapQueryRequest
 {

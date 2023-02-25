@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.dtbankcust.activityorder.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:01:39
+ * @since 1.0, 2023-01-04 20:51:40
  */
 class AlipayUserDtbankcustActivityorderQueryRequest
 {

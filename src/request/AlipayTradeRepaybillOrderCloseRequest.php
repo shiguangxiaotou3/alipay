@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.repaybill.order.close request
  *
  * @author auto create
- * @since 1.0, 2020-10-09 11:26:19
+ * @since 1.0, 2023-01-11 06:10:57
  */
 class AlipayTradeRepaybillOrderCloseRequest
 {

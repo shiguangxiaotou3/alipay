@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.frontcategory.security.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:34:51
+ * @since 1.0, 2023-01-10 22:28:10
  */
 class AntMerchantExpandFrontcategorySecurityQueryRequest
 {

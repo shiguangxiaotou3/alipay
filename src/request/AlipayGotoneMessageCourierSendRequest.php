@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.gotone.message.courier.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 13:51:37
+ * @since 1.0, 2023-02-21 17:07:23
  */
 class AlipayGotoneMessageCourierSendRequest
 {

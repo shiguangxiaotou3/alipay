@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.comm.msgto.ce.bind request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 18:31:34
+ * @since 1.0, 2022-11-23 19:07:13
  */
 class AlipayBossCommMsgtoCeBindRequest
 {

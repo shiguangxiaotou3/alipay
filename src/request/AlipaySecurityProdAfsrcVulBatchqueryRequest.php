@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.afsrc.vul.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 11:44:18
+ * @since 1.0, 2023-01-05 11:22:19
  */
 class AlipaySecurityProdAfsrcVulBatchqueryRequest
 {

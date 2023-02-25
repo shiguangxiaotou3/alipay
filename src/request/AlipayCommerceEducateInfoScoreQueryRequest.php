@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.info.score.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-20 16:15:17
+ * @since 1.0, 2023-01-11 07:22:15
  */
 class AlipayCommerceEducateInfoScoreQueryRequest
 {

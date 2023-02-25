@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.life.label.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:59:43
+ * @since 1.0, 2023-01-04 18:53:39
  */
 class AlipayOpenPublicLifeLabelCreateRequest
 {

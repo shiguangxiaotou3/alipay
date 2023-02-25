@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.auto.autoinsprod.quote.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:29:51
+ * @since 1.0, 2023-01-04 19:52:26
  */
 class AlipayInsAutoAutoinsprodQuoteQueryRequest
 {

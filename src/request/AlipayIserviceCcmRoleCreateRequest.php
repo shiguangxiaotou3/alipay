@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.ccm.role.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 11:19:28
+ * @since 1.0, 2023-01-04 18:43:30
  */
 class AlipayIserviceCcmRoleCreateRequest
 {

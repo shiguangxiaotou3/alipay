@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.servicemarket.commodity.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:12:23
+ * @since 1.0, 2023-01-11 03:37:01
  */
 class AlipayOpenServicemarketCommodityQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.payee.bind.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:31:59
+ * @since 1.0, 2023-01-04 18:09:23
  */
 class AlipayOpenPublicPayeeBindCreateRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.innerversion.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-22 15:38:34
+ * @since 1.0, 2023-01-10 22:41:04
  */
 class AlipayOpenMiniInnerversionBatchqueryRequest
 {

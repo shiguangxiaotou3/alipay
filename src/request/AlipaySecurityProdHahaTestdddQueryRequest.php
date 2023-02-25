@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.haha.testddd.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-11 14:02:53
+ * @since 1.0, 2023-01-04 19:22:38
  */
 class AlipaySecurityProdHahaTestdddQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.unofficial.material.submit request
  *
  * @author auto create
- * @since 1.0, 2021-08-24 19:50:26
+ * @since 1.0, 2023-01-04 19:05:05
  */
 class AlipayCommerceOperationUnofficialMaterialSubmitRequest
 {

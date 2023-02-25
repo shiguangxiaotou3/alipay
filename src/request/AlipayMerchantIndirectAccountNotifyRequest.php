@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.indirect.account.notify request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 13:22:04
+ * @since 1.0, 2023-01-11 02:41:39
  */
 class AlipayMerchantIndirectAccountNotifyRequest
 {

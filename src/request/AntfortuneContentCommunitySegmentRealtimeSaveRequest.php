@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.content.community.segment.realtime.save request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 21:36:41
+ * @since 1.0, 2023-01-11 01:03:28
  */
 class AntfortuneContentCommunitySegmentRealtimeSaveRequest
 {

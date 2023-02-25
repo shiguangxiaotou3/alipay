@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.identification.customer.smilerepo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:50:15
+ * @since 1.0, 2023-01-11 04:28:51
  */
 class ZolozIdentificationCustomerSmilerepoSyncRequest
 {

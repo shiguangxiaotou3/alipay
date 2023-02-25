@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.medical.payment.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 10:56:38
+ * @since 1.0, 2023-01-11 01:36:44
  */
 class AlipayCommerceMedicalPaymentQueryRequest
 {

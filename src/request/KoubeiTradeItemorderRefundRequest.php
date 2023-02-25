@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.trade.itemorder.refund request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 13:52:37
+ * @since 1.0, 2023-01-04 21:56:31
  */
 class KoubeiTradeItemorderRefundRequest
 {

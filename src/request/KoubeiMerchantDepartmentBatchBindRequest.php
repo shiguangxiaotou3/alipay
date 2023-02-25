@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.merchant.department.batch.bind request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:47:40
+ * @since 1.0, 2023-01-05 10:41:08
  */
 class KoubeiMerchantDepartmentBatchBindRequest
 {

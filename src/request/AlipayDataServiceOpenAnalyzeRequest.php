@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.service.open.analyze request
  *
  * @author auto create
- * @since 1.0, 2019-08-15 12:27:11
+ * @since 1.0, 2023-01-11 03:15:03
  */
 class AlipayDataServiceOpenAnalyzeRequest
 {

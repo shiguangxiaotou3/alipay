@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.iotdata.business.point.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:09:09
+ * @since 1.0, 2023-01-05 11:35:35
  */
 class AlipayDataIotdataBusinessPointCreateRequest
 {

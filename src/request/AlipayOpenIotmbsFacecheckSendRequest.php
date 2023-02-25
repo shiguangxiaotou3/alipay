@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.iotmbs.facecheck.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 13:46:49
+ * @since 1.0, 2023-01-11 09:06:44
  */
 class AlipayOpenIotmbsFacecheckSendRequest
 {

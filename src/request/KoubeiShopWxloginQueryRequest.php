@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.shop.wxlogin.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:42:02
+ * @since 1.0, 2023-01-10 22:56:38
  */
 class KoubeiShopWxloginQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.asset.card.newtemplate.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:37:41
+ * @since 1.0, 2023-01-11 06:20:03
  */
 class AlipayAssetCardNewtemplateCreateRequest
 {

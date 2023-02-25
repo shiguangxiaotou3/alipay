@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.pos.dishcate.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:19:37
+ * @since 1.0, 2023-01-11 04:37:24
  */
 class KoubeiCateringPosDishcateTransferRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.map.geocoding.reverse request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:32
+ * @since 1.0, 2023-01-10 22:34:37
  */
 class AlipayEcoMapGeocodingReverseRequest
 {

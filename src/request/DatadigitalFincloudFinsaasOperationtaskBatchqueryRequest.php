@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.operationtask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 10:21:47
+ * @since 1.0, 2023-01-11 08:51:45
  */
 class DatadigitalFincloudFinsaasOperationtaskBatchqueryRequest
 {

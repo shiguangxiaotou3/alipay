@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.finance.quotation.stocktools.freeuser.exchange request
  *
  * @author auto create
- * @since 1.0, 2022-02-21 11:12:21
+ * @since 1.0, 2023-01-11 02:56:37
  */
 class AlipayFinanceQuotationStocktoolsFreeuserExchangeRequest
 {

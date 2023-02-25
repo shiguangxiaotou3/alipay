@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.user.certify.open.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-12 10:36:16
+ * @since 1.0, 2023-01-04 18:29:38
  */
 class MybankCreditUserCertifyOpenQueryRequest
 {

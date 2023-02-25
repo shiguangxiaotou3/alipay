@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.signature.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 18:14:10
+ * @since 1.0, 2022-12-07 19:19:33
  */
 class AlipaySecurityProdSignatureTaskCancelRequest
 {

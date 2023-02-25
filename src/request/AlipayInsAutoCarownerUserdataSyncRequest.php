@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.auto.carowner.userdata.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 10:42:25
+ * @since 1.0, 2023-01-04 22:47:16
  */
 class AlipayInsAutoCarownerUserdataSyncRequest
 {

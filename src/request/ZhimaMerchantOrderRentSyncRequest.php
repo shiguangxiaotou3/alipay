@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.order.rent.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:49:43
+ * @since 1.0, 2023-01-10 22:18:00
  */
 class ZhimaMerchantOrderRentSyncRequest
 {

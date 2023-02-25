@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.agent.facetoface.sign request
  *
  * @author auto create
- * @since 1.0, 2022-04-01 15:19:19
+ * @since 1.0, 2023-01-04 23:36:12
  */
 class AlipayOpenAgentFacetofaceSignRequest
 {

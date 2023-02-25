@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.weike.bill.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:26:41
+ * @since 1.0, 2023-01-11 05:05:14
  */
 class AlipayMerchantWeikeBillModifyRequest
 {

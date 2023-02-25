@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.applycompetition.works.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:31:51
+ * @since 1.0, 2023-01-11 07:23:04
  */
 class AlipayCommerceEducateApplycompetitionWorksSyncRequest
 {

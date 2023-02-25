@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.quality.test.shield.caselaunch.apply request
  *
  * @author auto create
- * @since 1.0, 2020-01-08 14:48:06
+ * @since 1.0, 2023-01-10 22:55:33
  */
 class KoubeiQualityTestShieldCaselaunchApplyRequest
 {

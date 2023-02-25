@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.merge.precreate request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 17:36:36
+ * @since 1.0, 2023-01-11 09:36:41
  */
 class AlipayTradeMergePrecreateRequest
 {

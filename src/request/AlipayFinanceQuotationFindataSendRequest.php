@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.finance.quotation.findata.send request
  *
  * @author auto create
- * @since 1.0, 2021-11-02 12:25:19
+ * @since 1.0, 2023-01-11 05:22:08
  */
 class AlipayFinanceQuotationFindataSendRequest
 {

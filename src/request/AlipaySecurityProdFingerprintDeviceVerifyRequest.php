@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.fingerprint.device.verify request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:40:08
+ * @since 1.0, 2022-12-07 19:54:08
  */
 class AlipaySecurityProdFingerprintDeviceVerifyRequest
 {

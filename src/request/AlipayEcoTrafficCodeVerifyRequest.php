@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.traffic.code.verify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:05
+ * @since 1.0, 2023-01-10 22:49:08
  */
 class AlipayEcoTrafficCodeVerifyRequest
 {

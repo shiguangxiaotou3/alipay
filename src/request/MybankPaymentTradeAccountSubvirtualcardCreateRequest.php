@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.account.subvirtualcard.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:20
+ * @since 1.0, 2023-01-11 04:54:26
  */
 class MybankPaymentTradeAccountSubvirtualcardCreateRequest
 {

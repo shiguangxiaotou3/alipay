@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.pre.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 16:51:36
+ * @since 1.0, 2023-01-11 09:46:40
  */
 class ZhimaCreditPeZmgoPreConsultRequest
 {

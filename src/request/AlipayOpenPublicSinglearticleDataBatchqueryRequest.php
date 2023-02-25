@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.singlearticle.data.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:01:14
+ * @since 1.0, 2023-02-02 11:19:53
  */
 class AlipayOpenPublicSinglearticleDataBatchqueryRequest
 {

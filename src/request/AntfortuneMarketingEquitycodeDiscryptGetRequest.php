@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.marketing.equitycode.discrypt.get request
  *
  * @author auto create
- * @since 1.0, 2022-04-20 09:56:43
+ * @since 1.0, 2023-01-04 19:25:32
  */
 class AntfortuneMarketingEquitycodeDiscryptGetRequest
 {

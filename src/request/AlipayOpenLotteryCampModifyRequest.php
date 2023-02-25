@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.lottery.camp.modify request
  *
  * @author auto create
- * @since 1.0, 2020-01-07 19:36:22
+ * @since 1.0, 2023-01-10 22:52:37
  */
 class AlipayOpenLotteryCampModifyRequest
 {

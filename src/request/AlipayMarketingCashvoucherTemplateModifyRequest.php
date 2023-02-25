@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.cashvoucher.template.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 09:57:48
+ * @since 1.0, 2023-01-04 21:43:48
  */
 class AlipayMarketingCashvoucherTemplateModifyRequest
 {

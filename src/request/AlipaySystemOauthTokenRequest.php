@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.system.oauth.token request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 11:31:40
+ * @since 1.0, 2023-02-01 17:25:35
  */
 class AlipaySystemOauthTokenRequest
 {

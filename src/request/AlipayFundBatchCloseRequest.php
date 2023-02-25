@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.batch.close request
  *
  * @author auto create
- * @since 1.0, 2022-02-08 11:06:45
+ * @since 1.0, 2023-01-04 23:12:37
  */
 class AlipayFundBatchCloseRequest
 {

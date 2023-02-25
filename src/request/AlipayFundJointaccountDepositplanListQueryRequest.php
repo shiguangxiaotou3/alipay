@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.jointaccount.depositplan.list.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:06:58
+ * @since 1.0, 2023-01-04 21:16:38
  */
 class AlipayFundJointaccountDepositplanListQueryRequest
 {

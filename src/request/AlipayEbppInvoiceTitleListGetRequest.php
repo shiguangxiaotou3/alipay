@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.title.list.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-20 15:54:34
+ * @since 1.0, 2023-01-05 00:10:41
  */
 class AlipayEbppInvoiceTitleListGetRequest
 {

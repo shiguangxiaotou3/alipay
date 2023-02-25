@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.task.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 21:04:32
+ * @since 1.0, 2023-01-05 00:41:42
  */
 class AlipayMarketingCampaignTaskSendRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.parking.exitinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:56:55
+ * @since 1.0, 2023-01-04 23:31:05
  */
 class AlipayEcoMycarParkingExitinfoSyncRequest
 {

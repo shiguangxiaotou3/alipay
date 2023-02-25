@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.issalary.settledata.create request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 09:51:40
+ * @since 1.0, 2023-01-04 23:51:10
  */
 class AlipayIserviceIssalarySettledataCreateRequest
 {

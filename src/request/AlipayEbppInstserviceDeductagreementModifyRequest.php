@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.instservice.deductagreement.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 10:56:38
+ * @since 1.0, 2023-01-11 08:40:02
  */
 class AlipayEbppInstserviceDeductagreementModifyRequest
 {

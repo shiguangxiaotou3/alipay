@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.dapply.refund.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:31:05
+ * @since 1.0, 2023-01-10 22:21:12
  */
 class AlipayCommerceIotDapplyRefundConfirmRequest
 {

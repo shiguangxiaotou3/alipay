@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.item.greenenergy.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 14:51:36
+ * @since 1.0, 2023-01-11 09:11:40
  */
 class AlipayCommerceItemGreenenergyBatchqueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.twostage.indirect.use request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 11:44:31
+ * @since 1.0, 2022-12-27 10:24:16
  */
 class AlipayUserTwostageIndirectUseRequest
 {

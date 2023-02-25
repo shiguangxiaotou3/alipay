@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.behavior.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 17:56:33
+ * @since 1.0, 2023-01-04 20:41:40
  */
 class ZhimaCustomerBehaviorSyncRequest
 {

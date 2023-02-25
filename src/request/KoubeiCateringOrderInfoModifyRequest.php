@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.order.info.modify request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:24:58
+ * @since 1.0, 2023-01-11 04:03:46
  */
 class KoubeiCateringOrderInfoModifyRequest
 {

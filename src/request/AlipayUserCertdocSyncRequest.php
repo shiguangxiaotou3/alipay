@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.certdoc.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-01 11:06:51
+ * @since 1.0, 2023-01-11 09:26:40
  */
 class AlipayUserCertdocSyncRequest
 {

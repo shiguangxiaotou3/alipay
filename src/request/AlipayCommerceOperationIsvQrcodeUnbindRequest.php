@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.isv.qrcode.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-12-15 10:50:37
+ * @since 1.0, 2023-01-04 23:04:31
  */
 class AlipayCommerceOperationIsvQrcodeUnbindRequest
 {

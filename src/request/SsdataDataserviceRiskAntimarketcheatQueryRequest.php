@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ssdata.dataservice.risk.antimarketcheat.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:49
+ * @since 1.0, 2023-01-05 10:21:23
  */
 class SsdataDataserviceRiskAntimarketcheatQueryRequest
 {

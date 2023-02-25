@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.ai.cv.ua.async.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 18:36:41
+ * @since 1.0, 2023-01-11 08:34:11
  */
 class AnttechAiCvUaAsyncQueryRequest
 {

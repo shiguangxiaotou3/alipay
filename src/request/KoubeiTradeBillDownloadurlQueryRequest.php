@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.trade.bill.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 11:38:24
+ * @since 1.0, 2023-01-11 05:52:56
  */
 class KoubeiTradeBillDownloadurlQueryRequest
 {

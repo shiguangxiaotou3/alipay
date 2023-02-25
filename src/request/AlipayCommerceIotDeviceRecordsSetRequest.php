@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.device.records.set request
  *
  * @author auto create
- * @since 1.0, 2022-06-10 14:16:45
+ * @since 1.0, 2023-01-04 19:42:36
  */
 class AlipayCommerceIotDeviceRecordsSetRequest
 {

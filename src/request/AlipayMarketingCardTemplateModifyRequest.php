@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.card.template.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 21:19:26
+ * @since 1.0, 2023-02-08 16:38:33
  */
 class AlipayMarketingCardTemplateModifyRequest
 {

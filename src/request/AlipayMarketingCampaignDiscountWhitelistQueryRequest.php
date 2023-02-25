@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.discount.whitelist.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-15 15:30:35
+ * @since 1.0, 2023-01-11 03:19:20
  */
 class AlipayMarketingCampaignDiscountWhitelistQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.bill.pay.status request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:37:41
+ * @since 1.0, 2023-01-04 18:12:17
  */
 class AlipayEbppPdeductBillPayStatusRequest
 {

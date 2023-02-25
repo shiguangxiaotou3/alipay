@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.industry.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 16:34:01
+ * @since 1.0, 2023-01-11 05:06:02
  */
 class ZhimaCreditPeIndustryTradeRefundRequest
 {

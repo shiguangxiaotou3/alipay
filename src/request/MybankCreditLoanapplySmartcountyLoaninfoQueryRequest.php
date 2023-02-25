@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.smartcounty.loaninfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 19:10:06
+ * @since 1.0, 2023-01-11 16:51:37
  */
 class MybankCreditLoanapplySmartcountyLoaninfoQueryRequest
 {

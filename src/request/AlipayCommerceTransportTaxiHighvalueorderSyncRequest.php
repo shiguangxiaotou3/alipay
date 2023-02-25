@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.highvalueorder.sync request
  *
  * @author auto create
- * @since 1.0, 2022-04-02 17:56:39
+ * @since 1.0, 2023-01-11 02:41:40
  */
 class AlipayCommerceTransportTaxiHighvalueorderSyncRequest
 {

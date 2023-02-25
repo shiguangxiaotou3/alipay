@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.asset.card.disburse request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 10:27:11
+ * @since 1.0, 2023-01-11 02:26:41
  */
 class AlipayAssetCardDisburseRequest
 {

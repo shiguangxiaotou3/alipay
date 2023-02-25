@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.mpoint.authbase.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:54
+ * @since 1.0, 2023-01-16 16:05:11
  */
 class AlipayUserMpointAuthbasePreconsultRequest
 {

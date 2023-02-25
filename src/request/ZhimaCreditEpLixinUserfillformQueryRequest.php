@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.ep.lixin.userfillform.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:39
+ * @since 1.0, 2023-01-04 23:56:44
  */
 class ZhimaCreditEpLixinUserfillformQueryRequest
 {

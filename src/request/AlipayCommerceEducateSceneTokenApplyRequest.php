@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.scene.token.apply request
  *
  * @author auto create
- * @since 1.0, 2022-03-23 13:51:38
+ * @since 1.0, 2023-01-04 19:25:50
  */
 class AlipayCommerceEducateSceneTokenApplyRequest
 {

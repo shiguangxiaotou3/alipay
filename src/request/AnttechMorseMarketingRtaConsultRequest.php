@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.morse.marketing.rta.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 18:02:41
+ * @since 1.0, 2023-01-04 21:01:40
  */
 class AnttechMorseMarketingRtaConsultRequest
 {

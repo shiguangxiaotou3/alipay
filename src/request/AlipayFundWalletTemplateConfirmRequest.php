@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.wallet.template.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 17:06:45
+ * @since 1.0, 2023-01-05 01:06:48
  */
 class AlipayFundWalletTemplateConfirmRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.life.msg.recall request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 17:25:45
+ * @since 1.0, 2023-01-04 17:47:35
  */
 class AlipayOpenPublicLifeMsgRecallRequest
 {

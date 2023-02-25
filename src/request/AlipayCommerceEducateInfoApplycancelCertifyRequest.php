@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.info.applycancel.certify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:34:31
+ * @since 1.0, 2023-01-11 00:17:37
  */
 class AlipayCommerceEducateInfoApplycancelCertifyRequest
 {

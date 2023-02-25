@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.lifeassistant.prod.bill.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 20:50:03
+ * @since 1.0, 2023-01-11 02:56:37
  */
 class AlipayLifeassistantProdBillGetRequest
 {
@@ -21,6 +21,11 @@ class AlipayLifeassistantProdBillGetRequest
 10001——新浪
 	 **/
 	private $mType;
+	
+	/** 
+	 * 付款方外部用户ID
+	 **/
+	private $openId;
 	
 	/** 
 	 * 支付宝订单号
@@ -62,6 +67,17 @@ class AlipayLifeassistantProdBillGetRequest
 	public function getmType()
 	{
 		return $this->mType;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setOrderId($orderId)

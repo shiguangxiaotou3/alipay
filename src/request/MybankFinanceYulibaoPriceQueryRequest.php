@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.finance.yulibao.price.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 15:47:27
+ * @since 1.0, 2023-01-04 17:51:33
  */
 class MybankFinanceYulibaoPriceQueryRequest
 {

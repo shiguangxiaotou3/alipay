@@ -1,11 +1,9 @@
 <?php
-namespace Shiguangxiaotou\Alipay;
-
-use Shiguangxiaotou\Alipay\EncryptResponseData;
-use Shiguangxiaotou\Alipay\EncryptParseItem;
-use Shiguangxiaotou\Alipay\SignData;
-use Shiguangxiaotou\Alipay\AlipayConfig;
-
+namespace  shiguangxiaotou\alipay;
+use shiguangxiaotou\alipay\EncryptParseItem;
+use shiguangxiaotou\alipay\EncryptResponseData;
+use shiguangxiaotou\alipay\SignData;
+use shiguangxiaotou\alipay\AlipayConfig;
 require_once 'AopEncrypt.php';
 //require_once 'EncryptParseItem.php';
 //require_once 'EncryptResponseData.php';
@@ -68,7 +66,7 @@ class AopClient
 
     private $targetServiceUrl = "";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.19.52.ALL";
     function __construct() {
         //根据参数个数和参数类型 来做相应的判断
         if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){

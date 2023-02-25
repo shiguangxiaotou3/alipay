@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.iotbpaas.devicecode.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-16 16:35:28
+ * @since 1.0, 2023-01-11 07:47:43
  */
 class AlipayOpenIotbpaasDevicecodeCreateRequest
 {

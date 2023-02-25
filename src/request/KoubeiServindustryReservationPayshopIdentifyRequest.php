@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.servindustry.reservation.payshop.identify request
  *
  * @author auto create
- * @since 1.0, 2022-03-22 10:00:54
+ * @since 1.0, 2023-01-05 11:25:50
  */
 class KoubeiServindustryReservationPayshopIdentifyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.business.paymenthub.pay request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:13
+ * @since 1.0, 2023-01-11 06:01:28
  */
 class AlipayBusinessPaymenthubPayRequest
 {

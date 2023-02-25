@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.normalpay.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-05-05 18:55:49
+ * @since 1.0, 2023-01-05 11:40:28
  */
 class MybankPaymentTradeNormalpayTransferRequest
 {

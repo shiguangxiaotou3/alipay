@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.complain.government.finish request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:23:26
+ * @since 1.0, 2023-01-12 10:57:16
  */
 class AlipayMerchantComplainGovernmentFinishRequest
 {

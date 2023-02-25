@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.arbill.monthstatementbill.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-20 17:30:40
+ * @since 1.0, 2023-01-11 08:01:42
  */
 class AlipayBossFncArbillMonthstatementbillQueryRequest
 {

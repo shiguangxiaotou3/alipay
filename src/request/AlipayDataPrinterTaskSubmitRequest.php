@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.printer.task.submit request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 16:25:57
+ * @since 1.0, 2023-01-10 22:44:01
  */
 class AlipayDataPrinterTaskSubmitRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.contentlib.standardcontent.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 21:43:21
+ * @since 1.0, 2023-01-04 19:13:18
  */
 class AlipaySocialBaseContentlibStandardcontentBatchqueryRequest
 {

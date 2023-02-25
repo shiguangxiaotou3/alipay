@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.sharecode.hbfq.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-16 18:21:53
+ * @since 1.0, 2023-01-04 23:19:16
  */
 class AlipayPcreditHuabeiSharecodeHbfqCreateRequest
 {

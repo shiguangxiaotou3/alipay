@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.account.exrate.pricing.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:20:48
+ * @since 1.0, 2023-01-05 10:07:53
  */
 class AlipayAccountExratePricingNotifyRequest
 {

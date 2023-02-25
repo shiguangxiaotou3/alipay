@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.tool.fengdie.activity.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 10:06:35
+ * @since 1.0, 2023-01-04 21:43:31
  */
 class AlipayMarketingToolFengdieActivityCreateRequest
 {

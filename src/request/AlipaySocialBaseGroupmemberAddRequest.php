@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.groupmember.add request
  *
  * @author auto create
- * @since 1.0, 2022-11-01 22:16:49
+ * @since 1.0, 2023-01-11 09:31:40
  */
 class AlipaySocialBaseGroupmemberAddRequest
 {

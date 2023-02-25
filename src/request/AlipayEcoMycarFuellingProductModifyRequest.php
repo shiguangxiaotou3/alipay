@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.fuelling.product.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:48:13
+ * @since 1.0, 2023-01-11 03:35:08
  */
 class AlipayEcoMycarFuellingProductModifyRequest
 {

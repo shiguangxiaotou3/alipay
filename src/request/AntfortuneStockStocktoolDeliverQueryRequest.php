@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.stock.stocktool.deliver.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 17:59:13
+ * @since 1.0, 2023-01-11 10:06:49
  */
 class AntfortuneStockStocktoolDeliverQueryRequest
 {

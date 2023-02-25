@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.application.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 16:45:44
+ * @since 1.0, 2023-01-11 03:38:21
  */
 class AlipayInsSceneApplicationCancelRequest
 {

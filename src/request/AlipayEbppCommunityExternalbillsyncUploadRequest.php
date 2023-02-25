@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.community.externalbillsync.upload request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:29:14
+ * @since 1.0, 2023-01-10 23:59:02
  */
 class AlipayEbppCommunityExternalbillsyncUploadRequest
 {

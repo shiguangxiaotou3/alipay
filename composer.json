@@ -2,7 +2,7 @@
     "name": "shiguangxiaotou/alipay",
     "autoload": {
         "psr-4": {
-            "Shiguangxiaotou\\Alipay\\": "src/"
+            "shiguangxiaotou\\alipay\\": "src/"
         }
     },
     "license": "MIT",

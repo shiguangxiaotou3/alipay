@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.zhima.submerchant.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 13:56:50
+ * @since 1.0, 2023-01-11 01:41:45
  */
 class AlipayCommerceZhimaSubmerchantQueryRequest
 {

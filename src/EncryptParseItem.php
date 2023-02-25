@@ -1,5 +1,5 @@
 <?php
-namespace Shiguangxiaotou\Alipay;
+namespace  shiguangxiaotou\alipay;
 /**
  *  TODO 补充说明
  *

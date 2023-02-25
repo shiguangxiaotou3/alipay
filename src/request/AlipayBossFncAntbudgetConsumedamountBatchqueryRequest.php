@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.antbudget.consumedamount.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-03 15:50:21
+ * @since 1.0, 2023-01-11 00:23:01
  */
 class AlipayBossFncAntbudgetConsumedamountBatchqueryRequest
 {

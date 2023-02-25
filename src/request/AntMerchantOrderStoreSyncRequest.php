@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.order.store.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:28:27
+ * @since 1.0, 2023-01-10 23:09:23
  */
 class AntMerchantOrderStoreSyncRequest
 {

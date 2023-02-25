@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.mobile.url.deviceverify.add request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 10:28:55
+ * @since 1.0, 2023-01-05 09:59:46
  */
 class AlipayMobileUrlDeviceverifyAddRequest
 {

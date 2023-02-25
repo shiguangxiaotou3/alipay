@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cplife.notice.publish request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:30:50
+ * @since 1.0, 2023-01-04 21:38:11
  */
 class AlipayEcoCplifeNoticePublishRequest
 {

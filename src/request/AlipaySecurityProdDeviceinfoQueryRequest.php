@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.deviceinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-13 19:52:10
+ * @since 1.0, 2023-01-11 05:55:04
  */
 class AlipaySecurityProdDeviceinfoQueryRequest
 {

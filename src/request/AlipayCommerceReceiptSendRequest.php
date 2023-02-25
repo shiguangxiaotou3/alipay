@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.receipt.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 17:16:37
+ * @since 1.0, 2023-01-11 01:36:44
  */
 class AlipayCommerceReceiptSendRequest
 {

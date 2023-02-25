@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.refund request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:57:34
+ * @since 1.0, 2023-01-05 00:03:26
  */
 class AlipayCommerceCityfacilitatorVoucherRefundRequest
 {

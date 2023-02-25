@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.app.service.promotemplate.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 14:45:19
+ * @since 1.0, 2023-01-04 19:10:41
  */
 class AlipayOpenAppServicePromotemplateQueryRequest
 {

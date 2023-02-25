@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.antbudget.groupbudget.refund request
  *
  * @author auto create
- * @since 1.0, 2021-08-06 10:20:22
+ * @since 1.0, 2023-01-11 07:36:13
  */
 class AlipayBossFncAntbudgetGroupbudgetRefundRequest
 {

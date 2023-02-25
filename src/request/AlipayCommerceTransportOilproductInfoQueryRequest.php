@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.oilproduct.info.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-10 17:36:09
+ * @since 1.0, 2023-01-10 22:48:20
  */
 class AlipayCommerceTransportOilproductInfoQueryRequest
 {

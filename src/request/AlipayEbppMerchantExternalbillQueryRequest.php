@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.merchant.externalbill.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-08 15:41:48
+ * @since 1.0, 2023-01-11 09:01:41
  */
 class AlipayEbppMerchantExternalbillQueryRequest
 {

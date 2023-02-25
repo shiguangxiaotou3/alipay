@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.promoter.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-08 15:10:32
+ * @since 1.0, 2023-01-04 22:54:45
  */
 class AlipayCommerceOperationPromoterQrcodeQueryRequest
 {

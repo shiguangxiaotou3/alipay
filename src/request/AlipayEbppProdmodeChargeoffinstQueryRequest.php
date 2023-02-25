@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.prodmode.chargeoffinst.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:01:09
+ * @since 1.0, 2023-01-05 10:10:35
  */
 class AlipayEbppProdmodeChargeoffinstQueryRequest
 {

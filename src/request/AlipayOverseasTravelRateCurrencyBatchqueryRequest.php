@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.travel.rate.currency.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-03-25 11:37:54
+ * @since 1.0, 2023-01-11 06:08:17
  */
 class AlipayOverseasTravelRateCurrencyBatchqueryRequest
 {

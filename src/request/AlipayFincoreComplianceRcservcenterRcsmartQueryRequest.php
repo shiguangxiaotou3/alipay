@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.compliance.rcservcenter.rcsmart.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-26 11:11:45
+ * @since 1.0, 2022-12-07 23:40:22
  */
 class AlipayFincoreComplianceRcservcenterRcsmartQueryRequest
 {

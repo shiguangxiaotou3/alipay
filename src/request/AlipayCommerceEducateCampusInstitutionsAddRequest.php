@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.campus.institutions.add request
  *
  * @author auto create
- * @since 1.0, 2022-08-09 15:59:56
+ * @since 1.0, 2023-01-04 23:34:31
  */
 class AlipayCommerceEducateCampusInstitutionsAddRequest
 {

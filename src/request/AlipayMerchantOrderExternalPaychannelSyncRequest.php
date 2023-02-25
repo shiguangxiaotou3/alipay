@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.order.external.paychannel.sync request
  *
  * @author auto create
- * @since 1.0, 2021-04-14 14:40:19
+ * @since 1.0, 2022-12-08 12:18:14
  */
 class AlipayMerchantOrderExternalPaychannelSyncRequest
 {

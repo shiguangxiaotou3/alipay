@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.account.finrisk.markrisk.datafactor.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-25 11:38:03
+ * @since 1.0, 2023-01-11 04:58:11
  */
 class AlipayAccountFinriskMarkriskDatafactorQueryRequest
 {

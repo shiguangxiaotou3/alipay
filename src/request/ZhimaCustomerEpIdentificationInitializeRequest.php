@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.ep.identification.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-04-15 12:02:23
+ * @since 1.0, 2023-01-10 22:23:37
  */
 class ZhimaCustomerEpIdentificationInitializeRequest
 {

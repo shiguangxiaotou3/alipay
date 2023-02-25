@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.parking.parkinglotinfo.update request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 17:01:52
+ * @since 1.0, 2023-02-22 14:21:38
  */
 class AlipayEcoMycarParkingParkinglotinfoUpdateRequest
 {

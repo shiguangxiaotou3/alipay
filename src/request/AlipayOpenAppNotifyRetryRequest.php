@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.app.notify.retry request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 21:33:22
+ * @since 1.0, 2023-01-04 21:00:56
  */
 class AlipayOpenAppNotifyRetryRequest
 {

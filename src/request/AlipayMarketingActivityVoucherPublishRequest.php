@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.activity.voucher.publish request
  *
  * @author auto create
- * @since 1.0, 2022-09-30 17:36:53
+ * @since 1.0, 2023-01-05 01:01:37
  */
 class AlipayMarketingActivityVoucherPublishRequest
 {

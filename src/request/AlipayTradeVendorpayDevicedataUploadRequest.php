@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.vendorpay.devicedata.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:11:30
+ * @since 1.0, 2023-01-11 03:16:39
  */
 class AlipayTradeVendorpayDevicedataUploadRequest
 {

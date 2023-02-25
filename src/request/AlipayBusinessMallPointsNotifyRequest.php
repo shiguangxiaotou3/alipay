@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.business.mall.points.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 10:56:32
+ * @since 1.0, 2023-01-11 09:11:41
  */
 class AlipayBusinessMallPointsNotifyRequest
 {

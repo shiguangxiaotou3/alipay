@@ -1,5 +1,5 @@
 <?php
-namespace Shiguangxiaotou\Alipay;
+namespace  shiguangxiaotou\alipay;
 /**
  * Created by PhpStorm.
  * User: jiehua

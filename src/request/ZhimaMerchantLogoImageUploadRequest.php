@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.logo.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 10:30:36
+ * @since 1.0, 2023-01-04 22:10:48
  */
 class ZhimaMerchantLogoImageUploadRequest
 {

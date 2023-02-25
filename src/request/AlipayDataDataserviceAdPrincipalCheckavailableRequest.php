@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.ad.principal.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2021-05-08 11:49:37
+ * @since 1.0, 2023-01-04 22:18:27
  */
 class AlipayDataDataserviceAdPrincipalCheckavailableRequest
 {

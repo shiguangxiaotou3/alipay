@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.interactiveprod.batch.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 10:41:54
+ * @since 1.0, 2023-01-11 01:31:47
  */
 class AlipaySecurityProdInteractiveprodBatchInitializeRequest
 {

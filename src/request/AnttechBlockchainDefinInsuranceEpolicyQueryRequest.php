@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.insurance.epolicy.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 11:31:35
+ * @since 1.0, 2023-01-11 08:14:29
  */
 class AnttechBlockchainDefinInsuranceEpolicyQueryRequest
 {

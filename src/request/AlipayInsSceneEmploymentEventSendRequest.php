@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.employment.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 13:51:48
+ * @since 1.0, 2023-01-04 20:21:49
  */
 class AlipayInsSceneEmploymentEventSendRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.signature.file.upload request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 18:14:26
+ * @since 1.0, 2022-12-07 18:28:20
  */
 class AlipaySecurityProdSignatureFileUploadRequest
 {

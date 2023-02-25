@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.asset.point.voucherprod.benefittemplate.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:38:03
+ * @since 1.0, 2023-01-11 07:20:54
  */
 class AlipayAssetPointVoucherprodBenefittemplateCreateRequest
 {

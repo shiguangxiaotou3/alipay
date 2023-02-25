@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.innercontent.sign request
  *
  * @author auto create
- * @since 1.0, 2022-03-07 19:06:42
+ * @since 1.0, 2023-01-11 00:56:10
  */
 class AlipayOpenMiniInnercontentSignRequest
 {

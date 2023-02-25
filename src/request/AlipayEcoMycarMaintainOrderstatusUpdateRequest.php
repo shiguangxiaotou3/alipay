@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.maintain.orderstatus.update request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 10:07:00
+ * @since 1.0, 2023-01-05 10:04:38
  */
 class AlipayEcoMycarMaintainOrderstatusUpdateRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.data.dsb.estimate.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 15:17:13
+ * @since 1.0, 2023-01-05 11:04:50
  */
 class AlipayInsDataDsbEstimateQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.offlinepay.userblacklist.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:04:53
+ * @since 1.0, 2023-01-05 10:01:23
  */
 class AlipayCommerceTransportOfflinepayUserblacklistQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.contract.common.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-03-18 20:00:08
+ * @since 1.0, 2023-01-04 18:29:03
  */
 class ZhimaMerchantContractCommonConfirmRequest
 {

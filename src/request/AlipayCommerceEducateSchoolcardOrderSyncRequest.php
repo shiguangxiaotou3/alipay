@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.schoolcard.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 17:21:38
+ * @since 1.0, 2023-01-05 00:41:41
  */
 class AlipayCommerceEducateSchoolcardOrderSyncRequest
 {

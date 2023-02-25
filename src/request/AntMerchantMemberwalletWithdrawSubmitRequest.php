@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.memberwallet.withdraw.submit request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 16:11:43
+ * @since 1.0, 2022-12-07 18:12:03
  */
 class AntMerchantMemberwalletWithdrawSubmitRequest
 {

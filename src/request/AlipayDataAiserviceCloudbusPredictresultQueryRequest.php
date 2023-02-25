@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictresult.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:37:56
+ * @since 1.0, 2023-01-10 22:37:19
  */
 class AlipayDataAiserviceCloudbusPredictresultQueryRequest
 {

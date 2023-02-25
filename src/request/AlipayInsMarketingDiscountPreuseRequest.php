@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.marketing.discount.preuse request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 16:20:04
+ * @since 1.0, 2023-01-11 03:27:23
  */
 class AlipayInsMarketingDiscountPreuseRequest
 {

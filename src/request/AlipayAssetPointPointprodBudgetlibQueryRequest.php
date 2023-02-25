@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.asset.point.pointprod.budgetlib.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:35:23
+ * @since 1.0, 2023-01-11 05:24:32
  */
 class AlipayAssetPointPointprodBudgetlibQueryRequest
 {

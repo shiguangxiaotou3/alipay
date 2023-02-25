@@ -1,14 +1,9 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Schema;
-
-use Shiguangxiaotou\Alipay\Schema\XMLAttribute;
-use Shiguangxiaotou\Alipay\Schema\AttributeRule;
-use Shiguangxiaotou\Alipay\Schema\Option;
-use Shiguangxiaotou\Alipay\Schema\ServiceSchemaFactory;
-//require_once 'XMLAttribute.php';
-//require_once 'AttributeRule.php';
-//require_once 'Option.php';
-//require_once 'ServiceSchemaFactory.php';
+namespace  shiguangxiaotou\alipay\schema;
+require_once 'XMLAttribute.php';
+require_once 'AttributeRule.php';
+require_once 'Option.php';
+require_once 'ServiceSchemaFactory.php';
 
 class ServiceSchemaReader
 {

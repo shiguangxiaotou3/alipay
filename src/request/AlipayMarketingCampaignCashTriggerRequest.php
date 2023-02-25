@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.cash.trigger request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 14:06:53
+ * @since 1.0, 2023-01-05 00:41:43
  */
 class AlipayMarketingCampaignCashTriggerRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.pagequerystuffinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2019-05-31 09:15:01
+ * @since 1.0, 2023-01-11 05:07:06
  */
 class KoubeiSalesKbassetStuffPagequerystuffinfoSyncRequest
 {

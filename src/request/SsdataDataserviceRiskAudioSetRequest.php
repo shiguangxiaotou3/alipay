@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ssdata.dataservice.risk.audio.set request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:06:21
+ * @since 1.0, 2023-01-11 03:59:45
  */
 class SsdataDataserviceRiskAudioSetRequest
 {

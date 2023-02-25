@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.miniapp.favoriteext.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 10:16:38
+ * @since 1.0, 2023-01-11 02:41:39
  */
 class AlipayOpenMiniMiniappFavoriteextDeleteRequest
 {

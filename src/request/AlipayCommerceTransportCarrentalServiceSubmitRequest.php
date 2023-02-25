@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.carrental.service.submit request
  *
  * @author auto create
- * @since 1.0, 2022-05-25 10:20:53
+ * @since 1.0, 2023-01-04 19:04:30
  */
 class AlipayCommerceTransportCarrentalServiceSubmitRequest
 {

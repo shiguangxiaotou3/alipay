@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.jobworth.scene.use request
  *
  * @author auto create
- * @since 1.0, 2021-06-28 14:50:21
+ * @since 1.0, 2023-01-04 19:28:24
  */
 class ZhimaCustomerJobworthSceneUseRequest
 {

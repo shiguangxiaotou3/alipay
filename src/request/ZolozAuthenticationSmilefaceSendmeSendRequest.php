@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.authentication.smileface.sendme.send request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 10:35:48
+ * @since 1.0, 2023-01-11 06:15:31
  */
 class ZolozAuthenticationSmilefaceSendmeSendRequest
 {

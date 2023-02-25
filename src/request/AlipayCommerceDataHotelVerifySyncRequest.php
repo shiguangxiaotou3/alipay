@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.data.hotel.verify.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 11:26:51
+ * @since 1.0, 2023-01-11 02:06:46
  */
 class AlipayCommerceDataHotelVerifySyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cityservice.industrymsg.auth.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 15:02:38
+ * @since 1.0, 2023-01-11 07:29:46
  */
 class AlipayEcoCityserviceIndustrymsgAuthBatchqueryRequest
 {

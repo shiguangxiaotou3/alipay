@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.shopcode.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 11:12:35
+ * @since 1.0, 2023-01-10 23:52:03
  */
 class AlipayCommerceIotShopcodeCancelRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.applepay.otpresolutionmethods.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-29 10:25:32
+ * @since 1.0, 2023-01-11 05:59:35
  */
 class AlipayUserApplepayOtpresolutionmethodsQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.file.url.get request
  *
  * @author auto create
- * @since 1.0, 2021-11-19 15:25:33
+ * @since 1.0, 2023-01-04 22:53:19
  */
 class AlipaySocialBaseFileUrlGetRequest
 {

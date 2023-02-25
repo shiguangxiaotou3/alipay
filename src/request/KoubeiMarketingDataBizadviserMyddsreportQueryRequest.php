@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.marketing.data.bizadviser.myddsreport.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:57:59
+ * @since 1.0, 2022-12-07 16:43:27
  */
 class KoubeiMarketingDataBizadviserMyddsreportQueryRequest
 {

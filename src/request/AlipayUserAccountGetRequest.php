@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.account.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:15:20
+ * @since 1.0, 2023-01-04 17:48:42
  */
 class AlipayUserAccountGetRequest
 {

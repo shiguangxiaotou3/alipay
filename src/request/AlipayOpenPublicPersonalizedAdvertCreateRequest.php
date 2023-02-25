@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.personalized.advert.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 16:12:18
+ * @since 1.0, 2023-01-04 18:47:18
  */
 class AlipayOpenPublicPersonalizedAdvertCreateRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.asset.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 16:11:15
+ * @since 1.0, 2023-02-06 14:18:59
  */
 class AntMerchantExpandAssetQrcodeQueryRequest
 {

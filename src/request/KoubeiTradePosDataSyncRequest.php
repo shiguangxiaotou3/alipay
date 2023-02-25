@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.trade.pos.data.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:56:26
+ * @since 1.0, 2023-01-11 04:53:36
  */
 class KoubeiTradePosDataSyncRequest
 {

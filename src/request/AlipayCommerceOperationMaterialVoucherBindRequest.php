@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.material.voucher.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:51:39
+ * @since 1.0, 2023-01-11 00:37:56
  */
 class AlipayCommerceOperationMaterialVoucherBindRequest
 {

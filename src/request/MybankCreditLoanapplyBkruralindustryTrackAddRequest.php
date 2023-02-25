@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.bkruralindustry.track.add request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 10:15:39
+ * @since 1.0, 2023-01-11 16:49:28
  */
 class MybankCreditLoanapplyBkruralindustryTrackAddRequest
 {

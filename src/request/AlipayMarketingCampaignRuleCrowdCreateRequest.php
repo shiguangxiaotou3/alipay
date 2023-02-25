@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:41:29
+ * @since 1.0, 2023-01-11 03:33:00
  */
 class AlipayMarketingCampaignRuleCrowdCreateRequest
 {

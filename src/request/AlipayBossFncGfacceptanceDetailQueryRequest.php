@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.gfacceptance.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 14:57:34
+ * @since 1.0, 2023-01-11 06:45:25
  */
 class AlipayBossFncGfacceptanceDetailQueryRequest
 {

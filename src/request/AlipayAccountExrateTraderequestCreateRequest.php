@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.account.exrate.traderequest.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 11:51:25
+ * @since 1.0, 2022-12-07 15:17:41
  */
 class AlipayAccountExrateTraderequestCreateRequest
 {

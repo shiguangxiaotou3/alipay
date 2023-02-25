@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.item.modify request
  *
  * @author auto create
- * @since 1.0, 2021-05-18 16:55:38
+ * @since 1.0, 2023-01-04 22:43:03
  */
 class KoubeiItemModifyRequest
 {

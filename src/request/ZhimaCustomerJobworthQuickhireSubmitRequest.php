@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.jobworth.quickhire.submit request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:02:36
+ * @since 1.0, 2023-01-04 20:56:38
  */
 class ZhimaCustomerJobworthQuickhireSubmitRequest
 {

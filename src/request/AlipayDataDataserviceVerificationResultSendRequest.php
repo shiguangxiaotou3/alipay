@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.verification.result.send request
  *
  * @author auto create
- * @since 1.0, 2019-08-14 15:13:41
+ * @since 1.0, 2023-01-11 04:02:09
  */
 class AlipayDataDataserviceVerificationResultSendRequest
 {

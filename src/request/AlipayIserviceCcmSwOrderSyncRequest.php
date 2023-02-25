@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.ccm.sw.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:52
+ * @since 1.0, 2023-01-05 00:11:43
  */
 class AlipayIserviceCcmSwOrderSyncRequest
 {

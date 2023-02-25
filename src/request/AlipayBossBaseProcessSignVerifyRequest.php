@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.base.process.sign.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:22:24
+ * @since 1.0, 2023-01-11 03:50:55
  */
 class AlipayBossBaseProcessSignVerifyRequest
 {

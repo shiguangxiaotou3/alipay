@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.sports.greenenergy.deposit request
  *
  * @author auto create
- * @since 1.0, 2022-07-15 10:36:43
+ * @since 1.0, 2023-01-11 02:01:41
  */
 class AlipayCommerceSportsGreenenergyDepositRequest
 {

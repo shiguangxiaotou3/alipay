@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.item.page.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:58:10
+ * @since 1.0, 2023-01-04 21:26:39
  */
 class AlipayOpenMiniItemPageQueryRequest
 {

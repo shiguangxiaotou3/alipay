@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.ecny.file.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 19:24:04
+ * @since 1.0, 2023-01-11 00:40:54
  */
 class MybankEcnyFileUploadRequest
 {

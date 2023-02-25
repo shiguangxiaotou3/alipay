@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.historygeo.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-19 09:36:11
+ * @since 1.0, 2023-01-11 05:25:04
  */
 class AlipayDataAiserviceCloudbusHistorygeoQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.compliance.template.match.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-23 14:30:39
+ * @since 1.0, 2023-02-08 10:31:19
  */
 class AlipayFincoreComplianceTemplateMatchQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.antforest.plant.apply request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 21:06:56
+ * @since 1.0, 2023-01-11 09:01:40
  */
 class AlipaySocialAntforestPlantApplyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.indirect.authorder.close request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:36:36
+ * @since 1.0, 2023-01-05 00:11:44
  */
 class AlipayMerchantIndirectAuthorderCloseRequest
 {

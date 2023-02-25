@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.bail.collection.finish request
  *
  * @author auto create
- * @since 1.0, 2021-10-12 14:32:46
+ * @since 1.0, 2023-01-05 01:01:38
  */
 class AlipayFundBailCollectionFinishRequest
 {

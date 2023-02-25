@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.lawsuit.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 15:10:06
+ * @since 1.0, 2023-01-04 18:05:03
  */
 class ZhimaCreditPeLawsuitDetailQueryRequest
 {

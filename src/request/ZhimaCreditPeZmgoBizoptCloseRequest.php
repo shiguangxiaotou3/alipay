@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.bizopt.close request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 21:29:18
+ * @since 1.0, 2023-01-04 22:39:18
  */
 class ZhimaCreditPeZmgoBizoptCloseRequest
 {

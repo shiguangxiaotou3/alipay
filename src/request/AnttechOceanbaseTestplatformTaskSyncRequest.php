@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.oceanbase.testplatform.task.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-13 19:51:41
+ * @since 1.0, 2023-01-11 08:24:10
  */
 class AnttechOceanbaseTestplatformTaskSyncRequest
 {

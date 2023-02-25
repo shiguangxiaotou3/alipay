@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.iot.merchantplan.createormodify request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 15:02:59
+ * @since 1.0, 2023-01-11 00:03:04
  */
 class AlipayMarketingIotMerchantplanCreateormodifyRequest
 {

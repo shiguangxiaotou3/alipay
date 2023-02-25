@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.dataarchives.callback request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 10:06:57
+ * @since 1.0, 2023-01-11 08:24:26
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspDataarchivesCallbackRequest
 {

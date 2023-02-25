@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.charity.recordexist.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 21:06:54
+ * @since 1.0, 2023-01-11 02:01:41
  */
 class AlipayUserCharityRecordexistQueryRequest
 {

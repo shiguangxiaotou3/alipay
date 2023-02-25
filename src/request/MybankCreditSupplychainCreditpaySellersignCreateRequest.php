@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.supplychain.creditpay.sellersign.create request
  *
  * @author auto create
- * @since 1.0, 2020-03-04 11:21:07
+ * @since 1.0, 2023-02-07 17:51:10
  */
 class MybankCreditSupplychainCreditpaySellersignCreateRequest
 {

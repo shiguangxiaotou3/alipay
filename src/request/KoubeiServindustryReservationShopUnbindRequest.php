@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.servindustry.reservation.shop.unbind request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 20:50:26
+ * @since 1.0, 2023-01-11 05:23:28
  */
 class KoubeiServindustryReservationShopUnbindRequest
 {

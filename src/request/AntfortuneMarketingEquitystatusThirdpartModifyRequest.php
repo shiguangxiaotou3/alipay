@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.marketing.equitystatus.thirdpart.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-21 16:31:39
+ * @since 1.0, 2023-01-04 23:17:33
  */
 class AntfortuneMarketingEquitystatusThirdpartModifyRequest
 {

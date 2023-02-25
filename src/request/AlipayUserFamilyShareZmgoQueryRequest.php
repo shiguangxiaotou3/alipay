@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.family.share.zmgo.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-14 11:25:16
+ * @since 1.0, 2023-01-04 18:51:21
  */
 class AlipayUserFamilyShareZmgoQueryRequest
 {

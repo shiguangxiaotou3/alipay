@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.blockchain.open.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:42:51
+ * @since 1.0, 2023-01-11 07:37:04
  */
 class MybankCreditLoanapplyBlockchainOpenQueryRequest
 {

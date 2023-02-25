@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.morse.marketing.srta.nonanonymous.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 18:02:30
+ * @since 1.0, 2023-01-11 02:41:39
  */
 class AnttechMorseMarketingSrtaNonanonymousQueryRequest
 {

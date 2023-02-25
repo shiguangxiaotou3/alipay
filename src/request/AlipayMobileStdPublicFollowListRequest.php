@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.mobile.std.public.follow.list request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:48
+ * @since 1.0, 2023-01-04 21:31:50
  */
 class AlipayMobileStdPublicFollowListRequest
 {

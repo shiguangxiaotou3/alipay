@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.ampe.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 21:31:49
+ * @since 1.0, 2023-01-11 01:17:28
  */
 class AlipayOpenMiniAmpeQrcodeCreateRequest
 {

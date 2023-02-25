@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.stepcounter.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 10:51:28
+ * @since 1.0, 2023-02-15 16:35:52
  */
 class AlipayUserStepcounterSyncRequest
 {

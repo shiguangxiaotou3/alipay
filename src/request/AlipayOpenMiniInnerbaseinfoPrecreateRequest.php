@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.innerbaseinfo.precreate request
  *
  * @author auto create
- * @since 1.0, 2021-10-20 17:43:19
+ * @since 1.0, 2023-01-10 23:22:02
  */
 class AlipayOpenMiniInnerbaseinfoPrecreateRequest
 {

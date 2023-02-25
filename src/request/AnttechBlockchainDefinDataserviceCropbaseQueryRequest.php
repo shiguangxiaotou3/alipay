@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.dataservice.cropbase.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 18:21:32
+ * @since 1.0, 2023-02-02 15:06:41
  */
 class AnttechBlockchainDefinDataserviceCropbaseQueryRequest
 {

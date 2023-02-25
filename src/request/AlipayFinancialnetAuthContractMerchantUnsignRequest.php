@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.financialnet.auth.contract.merchant.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-06-10 14:49:47
+ * @since 1.0, 2023-01-11 10:21:37
  */
 class AlipayFinancialnetAuthContractMerchantUnsignRequest
 {

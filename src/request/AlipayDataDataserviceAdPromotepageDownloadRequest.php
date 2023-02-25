@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.ad.promotepage.download request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:26:36
+ * @since 1.0, 2023-01-04 20:11:42
  */
 class AlipayDataDataserviceAdPromotepageDownloadRequest
 {

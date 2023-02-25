@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.aliminiabilityprod.jsapi.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:53:24
+ * @since 1.0, 2023-01-10 22:50:28
  */
 class AlipayOpenMiniAliminiabilityprodJsapiCreateRequest
 {

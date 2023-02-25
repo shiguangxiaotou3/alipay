@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.taxbill.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 18:26:54
+ * @since 1.0, 2023-02-13 15:06:51
  */
 class AlipayFundTaxbillSignQueryRequest
 {

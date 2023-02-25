@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.ccm.agent.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 15:26:01
+ * @since 1.0, 2023-01-04 18:34:15
  */
 class AlipayIserviceCcmAgentGetRequest
 {

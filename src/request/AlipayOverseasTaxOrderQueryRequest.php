@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.tax.order.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-14 12:00:48
+ * @since 1.0, 2023-01-31 18:00:16
  */
 class AlipayOverseasTaxOrderQueryRequest
 {

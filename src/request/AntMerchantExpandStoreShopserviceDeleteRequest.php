@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.store.shopservice.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:27:06
+ * @since 1.0, 2023-01-10 23:10:11
  */
 class AntMerchantExpandStoreShopserviceDeleteRequest
 {

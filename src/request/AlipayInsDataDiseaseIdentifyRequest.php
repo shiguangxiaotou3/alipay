@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.data.disease.identify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:57
+ * @since 1.0, 2023-01-10 23:33:49
  */
 class AlipayInsDataDiseaseIdentifyRequest
 {

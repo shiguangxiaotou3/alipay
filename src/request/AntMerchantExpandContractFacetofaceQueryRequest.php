@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.contract.facetoface.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-15 12:13:48
+ * @since 1.0, 2022-12-07 15:56:02
  */
 class AntMerchantExpandContractFacetofaceQueryRequest
 {

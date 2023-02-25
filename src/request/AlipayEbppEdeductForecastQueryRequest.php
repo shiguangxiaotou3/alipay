@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.ededuct.forecast.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 14:15:17
+ * @since 1.0, 2023-01-04 18:49:19
  */
 class AlipayEbppEdeductForecastQueryRequest
 {

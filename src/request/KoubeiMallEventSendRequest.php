@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.mall.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:08:27
+ * @since 1.0, 2023-01-11 05:31:31
  */
 class KoubeiMallEventSendRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.entity.location.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-05 22:16:43
+ * @since 1.0, 2023-01-04 23:35:04
  */
 class ZhimaMerchantEntityLocationQueryRequest
 {

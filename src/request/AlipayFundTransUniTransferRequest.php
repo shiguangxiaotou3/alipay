@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.trans.uni.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 21:11:35
+ * @since 1.0, 2023-01-11 10:46:42
  */
 class AlipayFundTransUniTransferRequest
 {

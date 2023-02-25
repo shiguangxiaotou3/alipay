@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loanapply.qrcode.invalid.delete request
  *
  * @author auto create
- * @since 1.0, 2019-09-23 15:40:33
+ * @since 1.0, 2023-01-10 22:28:59
  */
 class MybankCreditLoanapplyQrcodeInvalidDeleteRequest
 {

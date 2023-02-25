@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.financialnet.promotion.apply.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 19:26:50
+ * @since 1.0, 2023-01-11 02:16:39
  */
 class AlipayFinancialnetPromotionApplyQueryRequest
 {

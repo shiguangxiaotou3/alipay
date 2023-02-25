@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.compliance.caas.merchantlevel.consult request
  *
  * @author auto create
- * @since 1.0, 2022-01-06 20:51:44
+ * @since 1.0, 2023-01-11 00:51:27
  */
 class AlipayFincoreComplianceCaasMerchantlevelConsultRequest
 {

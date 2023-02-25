@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.version.audit.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-09-06 13:06:55
+ * @since 1.0, 2023-01-04 20:21:40
  */
 class AlipayOpenMiniVersionAuditCancelRequest
 {

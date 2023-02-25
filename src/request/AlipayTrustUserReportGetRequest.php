@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trust.user.report.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:13:46
+ * @since 1.0, 2023-01-04 21:32:23
  */
 class AlipayTrustUserReportGetRequest
 {

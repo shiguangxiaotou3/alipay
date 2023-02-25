@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.apinvoice.batch.add request
  *
  * @author auto create
- * @since 1.0, 2020-01-14 14:52:12
+ * @since 1.0, 2023-01-11 05:55:36
  */
 class AlipayBossFncApinvoiceBatchAddRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.sportshealth.account.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-24 15:11:50
+ * @since 1.0, 2023-01-11 01:56:42
  */
 class AlipayUserSportshealthAccountQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.version.gray.online request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:20:39
+ * @since 1.0, 2023-01-05 00:01:44
  */
 class AlipayOpenMiniVersionGrayOnlineRequest
 {

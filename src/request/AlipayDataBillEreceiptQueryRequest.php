@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.bill.ereceipt.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-30 15:38:01
+ * @since 1.0, 2023-02-20 13:36:38
  */
 class AlipayDataBillEreceiptQueryRequest
 {

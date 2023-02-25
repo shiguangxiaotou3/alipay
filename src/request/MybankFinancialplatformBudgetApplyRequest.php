@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.financialplatform.budget.apply request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 18:01:35
+ * @since 1.0, 2023-02-08 12:46:38
  */
 class MybankFinancialplatformBudgetApplyRequest
 {

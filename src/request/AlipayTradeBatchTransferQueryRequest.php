@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.batch.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 19:28:42
+ * @since 1.0, 2023-01-11 02:31:40
  */
 class AlipayTradeBatchTransferQueryRequest
 {

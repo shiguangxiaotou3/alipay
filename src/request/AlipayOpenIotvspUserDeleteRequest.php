@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.iotvsp.user.delete request
  *
  * @author auto create
- * @since 1.0, 2022-04-11 19:06:42
+ * @since 1.0, 2022-12-07 19:30:04
  */
 class AlipayOpenIotvspUserDeleteRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.marketing.campaign.user.asset.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:36:36
+ * @since 1.0, 2023-01-04 18:09:58
  */
 class KoubeiMarketingCampaignUserAssetQueryRequest
 {

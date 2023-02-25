@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.miniapp.brand.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:11:42
+ * @since 1.0, 2023-01-04 20:06:28
  */
 class AlipayOpenMiniMiniappBrandSubmitRequest
 {

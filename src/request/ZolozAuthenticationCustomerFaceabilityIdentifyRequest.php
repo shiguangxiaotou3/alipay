@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.authentication.customer.faceability.identify request
  *
  * @author auto create
- * @since 1.0, 2022-06-15 10:03:49
+ * @since 1.0, 2022-12-08 02:09:36
  */
 class ZolozAuthenticationCustomerFaceabilityIdentifyRequest
 {

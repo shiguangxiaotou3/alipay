@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.payafteruse.creditagreement.sign request
  *
  * @author auto create
- * @since 1.0, 2022-07-14 14:11:46
+ * @since 1.0, 2023-01-13 13:50:38
  */
 class ZhimaCreditPayafteruseCreditagreementSignRequest
 {

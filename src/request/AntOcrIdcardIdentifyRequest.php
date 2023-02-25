@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.ocr.idcard.identify request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 13:56:29
+ * @since 1.0, 2023-01-04 22:13:19
  */
 class AntOcrIdcardIdentifyRequest
 {

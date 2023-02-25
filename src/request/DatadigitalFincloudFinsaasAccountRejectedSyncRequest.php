@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.account.rejected.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 17:11:44
+ * @since 1.0, 2023-01-04 23:42:18
  */
 class DatadigitalFincloudFinsaasAccountRejectedSyncRequest
 {

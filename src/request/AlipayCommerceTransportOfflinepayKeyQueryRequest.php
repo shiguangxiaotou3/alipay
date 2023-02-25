@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.offlinepay.key.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 17:30:40
+ * @since 1.0, 2023-01-11 03:17:27
  */
 class AlipayCommerceTransportOfflinepayKeyQueryRequest
 {

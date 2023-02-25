@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.marketing.mcaplatform.contract.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:51:46
+ * @since 1.0, 2023-01-11 00:46:34
  */
 class MybankMarketingMcaplatformContractQueryRequest
 {

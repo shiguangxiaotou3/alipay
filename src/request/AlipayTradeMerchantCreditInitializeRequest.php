@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.merchant.credit.initialize request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 19:41:44
+ * @since 1.0, 2023-01-10 22:35:26
  */
 class AlipayTradeMerchantCreditInitializeRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.modify request
  *
  * @author auto create
- * @since 1.0, 2019-10-16 21:36:01
+ * @since 1.0, 2023-01-10 22:37:02
  */
 class AlipayDataDataservicePropertyBusinesspropertyModifyRequest
 {

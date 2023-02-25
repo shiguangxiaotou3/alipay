@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.finance.risk.warning.add request
  *
  * @author auto create
- * @since 1.0, 2022-07-27 16:37:19
+ * @since 1.0, 2023-01-11 06:14:11
  */
 class AnttechBlockchainFinanceRiskWarningAddRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cityservice.message.universal.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 11:28:01
+ * @since 1.0, 2023-01-11 07:02:35
  */
 class AlipayEcoCityserviceMessageUniversalSendRequest
 {

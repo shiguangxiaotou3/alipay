@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.tax.advanced.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:09
+ * @since 1.0, 2023-01-31 18:01:05
  */
 class AlipayOverseasTaxAdvancedCreateRequest
 {

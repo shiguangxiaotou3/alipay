@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.selleradmit.realtime.certify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:48
+ * @since 1.0, 2023-02-13 15:00:31
  */
 class AlipayPcreditHuabeiSelleradmitRealtimeCertifyRequest
 {

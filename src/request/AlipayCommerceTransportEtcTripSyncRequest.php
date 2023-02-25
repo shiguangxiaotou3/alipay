@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.etc.trip.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 15:36:51
+ * @since 1.0, 2023-02-10 13:21:40
  */
 class AlipayCommerceTransportEtcTripSyncRequest
 {

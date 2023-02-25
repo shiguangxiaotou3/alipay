@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.app.developer.checkdevelopervalid.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 11:03:58
+ * @since 1.0, 2023-01-05 10:20:19
  */
 class AlipayOpenAppDeveloperCheckdevelopervalidQueryRequest
 {

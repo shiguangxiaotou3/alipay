@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.antest.appversion.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-23 20:01:14
+ * @since 1.0, 2023-01-11 06:21:55
  */
 class AlipayCommerceAntestAppversionQueryRequest
 {

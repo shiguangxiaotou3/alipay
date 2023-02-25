@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.drawcamp.status.update request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 14:26:08
+ * @since 1.0, 2023-01-05 10:02:43
  */
 class AlipayMarketingCampaignDrawcampStatusUpdateRequest
 {

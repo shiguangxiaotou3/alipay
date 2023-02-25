@@ -1,10 +1,10 @@
 <?php
-namespace Shiguangxiaotou\Alipay\Request;
+namespace  shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.tuitioncode.planrule.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:40:39
+ * @since 1.0, 2022-12-07 18:34:26
  */
 class AlipayCommerceEducateTuitioncodePlanruleSendRequest
 {
