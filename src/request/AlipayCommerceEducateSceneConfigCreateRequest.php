@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.scene.config.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 00:56:37
+ * @since 1.0, 2023-03-13 16:36:40
  */
 class AlipayCommerceEducateSceneConfigCreateRequest
 {

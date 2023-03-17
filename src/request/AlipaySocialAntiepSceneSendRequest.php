@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.antiep.scene.send request
  *
  * @author auto create
- * @since 1.0, 2023-02-07 11:55:43
+ * @since 1.0, 2023-03-12 22:33:12
  */
 class AlipaySocialAntiepSceneSendRequest
 {

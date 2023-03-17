@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.health.drugcatalogue.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:20:56
+ * @since 1.0, 2023-03-13 03:33:16
  */
 class AlipayInsSceneHealthDrugcatalogueBatchqueryRequest
 {

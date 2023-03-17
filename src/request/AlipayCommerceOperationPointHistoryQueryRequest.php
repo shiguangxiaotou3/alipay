@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.point.history.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:15:38
+ * @since 1.0, 2023-03-13 01:51:07
  */
 class AlipayCommerceOperationPointHistoryQueryRequest
 {

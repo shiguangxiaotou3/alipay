@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.abntask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:45:04
+ * @since 1.0, 2023-03-13 01:20:49
  */
 class AlipayCommerceAbntaskBatchqueryRequest
 {

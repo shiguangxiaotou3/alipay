@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.tradecomplain.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-12 10:58:32
+ * @since 1.0, 2023-03-12 21:01:46
  */
 class AlipayMerchantTradecomplainFeedbackSubmitRequest
 {

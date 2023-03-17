@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.chat.ginv.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:25:42
+ * @since 1.0, 2023-03-13 06:02:56
  */
 class AlipaySocialBaseChatGinvSendRequest
 {

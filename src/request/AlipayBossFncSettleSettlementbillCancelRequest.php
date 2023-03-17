@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.settle.settlementbill.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:53:28
+ * @since 1.0, 2023-03-12 17:01:45
  */
 class AlipayBossFncSettleSettlementbillCancelRequest
 {

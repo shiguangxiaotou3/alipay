@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.user.system.oauth.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:29:55
+ * @since 1.0, 2023-03-13 00:31:13
  */
 class MybankCreditUserSystemOauthQueryRequest
 {

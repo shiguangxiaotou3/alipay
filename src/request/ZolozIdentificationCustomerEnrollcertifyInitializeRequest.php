@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zoloz.identification.customer.enrollcertify.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:05:51
+ * @since 1.0, 2023-03-13 00:58:16
  */
 class ZolozIdentificationCustomerEnrollcertifyInitializeRequest
 {

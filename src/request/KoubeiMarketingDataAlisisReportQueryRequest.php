@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.marketing.data.alisis.report.query request
  *

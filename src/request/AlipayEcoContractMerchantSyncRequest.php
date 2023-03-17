@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.contract.merchant.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:05:00
+ * @since 1.0, 2023-03-13 02:46:17
  */
 class AlipayEcoContractMerchantSyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.customerriskrank.get request
  *
  * @author auto create
- * @since 1.0, 2023-02-07 17:01:38
+ * @since 1.0, 2023-03-13 06:01:39
  */
 class AlipaySecurityRiskCustomerriskrankGetRequest
 {

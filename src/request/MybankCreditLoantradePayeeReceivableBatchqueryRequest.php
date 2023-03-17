@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.loantrade.payee.receivable.batchquery request
  *

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.oceanbase.notify.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:57:57
+ * @since 1.0, 2023-03-12 23:38:38
  */
 class AnttechOceanbaseNotifySendRequest
 {

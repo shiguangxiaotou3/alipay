@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.account.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:41:15
+ * @since 1.0, 2023-03-13 05:22:18
  */
 class AlipayOpenPublicAccountDeleteRequest
 {

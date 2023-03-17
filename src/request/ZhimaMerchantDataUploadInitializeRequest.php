@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.merchant.data.upload.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:08:49
+ * @since 1.0, 2023-03-13 00:53:38
  */
 class ZhimaMerchantDataUploadInitializeRequest
 {

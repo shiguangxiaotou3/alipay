@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.carmodel.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:14:06
+ * @since 1.0, 2023-03-13 02:51:38
  */
 class AlipayEcoMycarCarmodelCreateRequest
 {

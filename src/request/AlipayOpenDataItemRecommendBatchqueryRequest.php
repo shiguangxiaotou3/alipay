@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.data.item.recommend.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:42:45
+ * @since 1.0, 2023-03-13 04:42:15
  */
 class AlipayOpenDataItemRecommendBatchqueryRequest
 {

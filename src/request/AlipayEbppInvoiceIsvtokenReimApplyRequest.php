@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.invoice.isvtoken.reim.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:19:36
+ * @since 1.0, 2023-03-12 19:01:48
  */
 class AlipayEbppInvoiceIsvtokenReimApplyRequest
 {

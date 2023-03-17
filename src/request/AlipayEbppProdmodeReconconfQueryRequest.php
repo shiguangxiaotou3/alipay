@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.prodmode.reconconf.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:09:46
+ * @since 1.0, 2023-03-12 19:07:52
  */
 class AlipayEbppProdmodeReconconfQueryRequest
 {

@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cplife.pay.result.query request
  *

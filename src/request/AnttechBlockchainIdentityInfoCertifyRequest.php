@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.identity.info.certify request
  *

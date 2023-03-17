@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.auth.mutualview.apply request
  *

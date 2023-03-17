@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.dtbank.qrcodedata.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 20:01:12
+ * @since 1.0, 2023-03-12 23:00:38
  */
 class AlipayUserDtbankQrcodedataQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.social.base.quest.instance.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:59:51
+ * @since 1.0, 2023-03-12 22:37:23
  */
 class AlipaySocialBaseQuestInstanceModifyRequest
 {

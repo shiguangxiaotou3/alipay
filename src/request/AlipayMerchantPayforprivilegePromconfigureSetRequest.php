@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.payforprivilege.promconfigure.set request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:24:55
+ * @since 1.0, 2023-03-12 20:50:11
  */
 class AlipayMerchantPayforprivilegePromconfigureSetRequest
 {

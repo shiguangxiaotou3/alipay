@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.asaingame.schedule.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:37:39
+ * @since 1.0, 2023-03-12 22:55:18
  */
 class AlipayUserAsaingameScheduleAddRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.entertainment.order.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:54:08
+ * @since 1.0, 2023-03-13 02:49:59
  */
 class AlipayEcoEntertainmentOrderUploadRequest
 {

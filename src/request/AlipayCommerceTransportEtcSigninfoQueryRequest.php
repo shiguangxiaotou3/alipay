@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.etc.signinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-02-01 11:21:38
+ * @since 1.0, 2023-03-13 02:01:41
  */
 class AlipayCommerceTransportEtcSigninfoQueryRequest
 {

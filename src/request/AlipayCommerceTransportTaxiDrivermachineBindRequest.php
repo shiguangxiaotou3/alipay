@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.drivermachine.bind request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:46:46
+ * @since 1.0, 2023-03-13 02:06:45
  */
 class AlipayCommerceTransportTaxiDrivermachineBindRequest
 {

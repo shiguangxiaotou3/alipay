@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.ai.cv.ocr.businesslicense.identify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:10:41
+ * @since 1.0, 2023-03-13 06:51:55
  */
 class AnttechAiCvOcrBusinesslicenseIdentifyRequest
 {

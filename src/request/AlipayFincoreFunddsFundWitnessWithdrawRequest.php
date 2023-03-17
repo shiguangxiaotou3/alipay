@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fincore.fundds.fund.witness.withdraw request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:23:47
+ * @since 1.0, 2023-03-13 03:07:28
  */
 class AlipayFincoreFunddsFundWitnessWithdrawRequest
 {

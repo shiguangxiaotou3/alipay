@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cplife.bill.batch.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 17:53:15
+ * @since 1.0, 2023-03-13 02:47:02
  */
 class AlipayEcoCplifeBillBatchUploadRequest
 {

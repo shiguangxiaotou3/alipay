@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.ampe.mobileapp.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:36:37
+ * @since 1.0, 2023-03-13 04:53:58
  */
 class AlipayOpenMiniAmpeMobileappUnbindRequest
 {

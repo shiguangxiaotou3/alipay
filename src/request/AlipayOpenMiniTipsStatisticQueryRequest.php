@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.tips.statistic.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:45:14
+ * @since 1.0, 2023-03-13 05:15:57
  */
 class AlipayOpenMiniTipsStatisticQueryRequest
 {

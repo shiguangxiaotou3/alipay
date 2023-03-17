@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:48:31
+ * @since 1.0, 2023-03-13 04:31:44
  */
 class AlipayOpenAgentCommonSignRequest
 {

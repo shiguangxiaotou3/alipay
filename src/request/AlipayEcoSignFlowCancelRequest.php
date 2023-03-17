@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.sign.flow.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:22:45
+ * @since 1.0, 2023-03-12 19:27:16
  */
 class AlipayEcoSignFlowCancelRequest
 {

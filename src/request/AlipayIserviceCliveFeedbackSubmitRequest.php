@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.clive.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:03:21
+ * @since 1.0, 2023-03-13 03:42:53
  */
 class AlipayIserviceCliveFeedbackSubmitRequest
 {

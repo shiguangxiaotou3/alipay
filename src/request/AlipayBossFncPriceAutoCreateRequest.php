@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.price.auto.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:59:19
+ * @since 1.0, 2023-03-12 17:01:06
  */
 class AlipayBossFncPriceAutoCreateRequest
 {

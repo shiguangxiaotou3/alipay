@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.remit.result.finish request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:42:09
+ * @since 1.0, 2023-03-12 22:04:42
  */
 class AlipayOverseasRemitResultFinishRequest
 {

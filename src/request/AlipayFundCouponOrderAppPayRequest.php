@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.coupon.order.app.pay request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:56:14
+ * @since 1.0, 2023-03-13 03:12:09
  */
 class AlipayFundCouponOrderAppPayRequest
 {

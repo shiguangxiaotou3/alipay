@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.benefit.edit request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:24:26
+ * @since 1.0, 2023-03-12 22:56:24
  */
 class AlipayUserBenefitEditRequest
 {

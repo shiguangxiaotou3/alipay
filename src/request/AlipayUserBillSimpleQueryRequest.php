@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.bill.simple.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-30 14:51:39
+ * @since 1.0, 2023-03-12 23:06:44
  */
 class AlipayUserBillSimpleQueryRequest
 {

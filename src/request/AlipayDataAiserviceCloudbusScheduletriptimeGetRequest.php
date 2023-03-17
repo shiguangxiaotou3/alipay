@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.scheduletriptime.get request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:31:32
+ * @since 1.0, 2023-03-13 02:12:20
  */
 class AlipayDataAiserviceCloudbusScheduletriptimeGetRequest
 {

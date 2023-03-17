@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.behaviorlog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:55:14
+ * @since 1.0, 2023-03-13 01:42:11
  */
 class AlipayCommerceIotMdeviceprodBehaviorlogBatchqueryRequest
 {

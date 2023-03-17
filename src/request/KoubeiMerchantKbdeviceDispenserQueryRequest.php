@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.merchant.kbdevice.dispenser.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:13:13
+ * @since 1.0, 2023-03-13 07:33:23
  */
 class KoubeiMerchantKbdeviceDispenserQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.auth.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:57:15
+ * @since 1.0, 2023-03-12 20:45:31
  */
 class AlipayMerchantAuthDeleteRequest
 {

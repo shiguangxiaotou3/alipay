@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.stock.message.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:47:56
+ * @since 1.0, 2023-03-13 06:51:01
  */
 class AntfortuneStockMessageSendRequest
 {

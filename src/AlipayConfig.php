@@ -1,5 +1,6 @@
 <?php
-namespace  shiguangxiaotou\alipay;
+namespace shiguangxiaotou\alipay;
+
 class AlipayConfig {
     /**
      * 网关地址

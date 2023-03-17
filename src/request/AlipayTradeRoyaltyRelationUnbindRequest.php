@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.royalty.relation.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-01-13 16:24:19
+ * @since 1.0, 2023-03-13 06:26:41
  */
 class AlipayTradeRoyaltyRelationUnbindRequest
 {

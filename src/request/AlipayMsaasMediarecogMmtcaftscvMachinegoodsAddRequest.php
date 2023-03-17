@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.machinegoods.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:14:36
+ * @since 1.0, 2023-03-13 04:27:02
  */
 class AlipayMsaasMediarecogMmtcaftscvMachinegoodsAddRequest
 {

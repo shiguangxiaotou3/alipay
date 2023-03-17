@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.data.scenic.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:21:23
+ * @since 1.0, 2023-03-12 17:28:38
  */
 class AlipayCommerceDataScenicQueryRequest
 {

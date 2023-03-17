@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.order.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:40:51
+ * @since 1.0, 2023-03-13 00:33:39
  */
 class MybankMarketingCampaignBkpromosceneorderOrderSyncRequest
 {

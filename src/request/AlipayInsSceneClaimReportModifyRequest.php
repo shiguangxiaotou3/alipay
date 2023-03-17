@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.claim.report.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:47:10
+ * @since 1.0, 2023-03-12 19:59:11
  */
 class AlipayInsSceneClaimReportModifyRequest
 {

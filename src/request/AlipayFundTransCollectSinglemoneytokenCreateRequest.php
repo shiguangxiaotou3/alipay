@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.trans.collect.singlemoneytoken.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:19:44
+ * @since 1.0, 2023-03-13 03:19:28
  */
 class AlipayFundTransCollectSinglemoneytokenCreateRequest
 {

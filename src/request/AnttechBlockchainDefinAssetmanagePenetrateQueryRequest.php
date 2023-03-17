@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.assetmanage.penetrate.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:06:46
+ * @since 1.0, 2023-03-13 06:56:42
  */
 class AnttechBlockchainDefinAssetmanagePenetrateQueryRequest
 {

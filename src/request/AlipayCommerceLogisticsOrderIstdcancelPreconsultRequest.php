@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.order.istdcancel.preconsult request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:50:02
+ * @since 1.0, 2023-03-12 18:06:44
  */
 class AlipayCommerceLogisticsOrderIstdcancelPreconsultRequest
 {

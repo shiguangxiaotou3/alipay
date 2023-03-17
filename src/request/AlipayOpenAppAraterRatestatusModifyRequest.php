@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.app.arater.ratestatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:16:55
+ * @since 1.0, 2023-03-12 21:04:49
  */
 class AlipayOpenAppAraterRatestatusModifyRequest
 {

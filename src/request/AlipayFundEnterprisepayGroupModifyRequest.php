@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.enterprisepay.group.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:24:25
+ * @since 1.0, 2023-03-12 19:38:29
  */
 class AlipayFundEnterprisepayGroupModifyRequest
 {

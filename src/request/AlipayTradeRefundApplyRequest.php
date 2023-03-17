@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:39:41
+ * @since 1.0, 2023-03-13 06:11:42
  */
 class AlipayTradeRefundApplyRequest
 {

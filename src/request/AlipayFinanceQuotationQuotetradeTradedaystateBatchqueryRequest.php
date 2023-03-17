@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.finance.quotation.quotetrade.tradedaystate.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:06:08
+ * @since 1.0, 2023-03-13 03:01:03
  */
 class AlipayFinanceQuotationQuotetradeTradedaystateBatchqueryRequest
 {

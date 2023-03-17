@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:26:02
+ * @since 1.0, 2023-03-12 19:18:57
  */
 class AlipayEcoMycarImageUploadRequest
 {

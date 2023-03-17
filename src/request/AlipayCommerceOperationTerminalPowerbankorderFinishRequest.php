@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.terminal.powerbankorder.finish request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:52:10
+ * @since 1.0, 2023-03-13 01:52:17
  */
 class AlipayCommerceOperationTerminalPowerbankorderFinishRequest
 {

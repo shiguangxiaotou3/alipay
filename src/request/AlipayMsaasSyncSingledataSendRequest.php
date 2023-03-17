@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.msaas.sync.singledata.send request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:40:04
+ * @since 1.0, 2023-03-12 21:00:19
  */
 class AlipayMsaasSyncSingledataSendRequest
 {

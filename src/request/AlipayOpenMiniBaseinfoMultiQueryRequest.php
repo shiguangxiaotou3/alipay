@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.baseinfo.multi.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:25:53
+ * @since 1.0, 2023-03-12 21:25:24
  */
 class AlipayOpenMiniBaseinfoMultiQueryRequest
 {

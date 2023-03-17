@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.bill.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2023-02-20 17:56:38
+ * @since 1.0, 2023-03-13 02:16:40
  */
 class AlipayDataBillTransferQueryRequest
 {

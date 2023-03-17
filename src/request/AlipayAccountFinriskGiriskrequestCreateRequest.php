@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.account.finrisk.giriskrequest.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:03:26
+ * @since 1.0, 2023-03-12 16:47:37
  */
 class AlipayAccountFinriskGiriskrequestCreateRequest
 {

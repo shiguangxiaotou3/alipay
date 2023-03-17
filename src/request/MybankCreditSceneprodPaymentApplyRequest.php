@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.sceneprod.payment.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:57:39
+ * @since 1.0, 2023-03-13 00:25:40
  */
 class MybankCreditSceneprodPaymentApplyRequest
 {

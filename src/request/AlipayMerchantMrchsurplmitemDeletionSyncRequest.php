@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.mrchsurplmitem.deletion.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:17:16
+ * @since 1.0, 2023-03-12 20:48:01
  */
 class AlipayMerchantMrchsurplmitemDeletionSyncRequest
 {

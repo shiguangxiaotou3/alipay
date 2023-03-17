@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:53:40
+ * @since 1.0, 2023-03-12 20:05:14
  */
 class AlipayInsScenePetprofilePlatformprofileDeleteRequest
 {

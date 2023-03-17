@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.family.relation.valid.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:16:22
+ * @since 1.0, 2023-03-13 06:26:01
  */
 class AlipayUserFamilyRelationValidQueryRequest
 {

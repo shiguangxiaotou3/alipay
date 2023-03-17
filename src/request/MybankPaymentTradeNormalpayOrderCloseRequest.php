@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.normalpay.order.close request
  *
  * @author auto create
- * @since 1.0, 2023-02-06 10:56:04
+ * @since 1.0, 2023-03-13 08:03:49
  */
 class MybankPaymentTradeNormalpayOrderCloseRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.grade.authbase.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-31 13:31:38
+ * @since 1.0, 2023-03-12 23:11:38
  */
 class AlipayUserGradeAuthbaseQueryRequest
 {

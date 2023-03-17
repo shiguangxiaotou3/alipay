@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.iotmbs.hotelguest.create request
  *
  * @author auto create
- * @since 1.0, 2023-02-15 17:06:41
+ * @since 1.0, 2023-03-13 04:51:39
  */
 class AlipayOpenIotmbsHotelguestCreateRequest
 {

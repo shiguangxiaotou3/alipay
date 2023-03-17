@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:25:46
+ * @since 1.0, 2023-03-13 03:58:41
  */
 class AlipayMarketingCampaignRuleCrowdDeleteRequest
 {

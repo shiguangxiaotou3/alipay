@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.jointaccount.rule.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:50:30
+ * @since 1.0, 2023-03-12 19:43:44
  */
 class AlipayFundJointaccountRuleModifyRequest
 {

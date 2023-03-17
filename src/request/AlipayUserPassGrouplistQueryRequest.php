@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.pass.grouplist.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:56:49
+ * @since 1.0, 2023-03-13 06:30:17
  */
 class AlipayUserPassGrouplistQueryRequest
 {

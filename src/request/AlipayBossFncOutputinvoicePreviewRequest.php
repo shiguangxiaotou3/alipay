@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.outputinvoice.preview request
  *
  * @author auto create
- * @since 1.0, 2023-01-16 15:38:28
+ * @since 1.0, 2023-03-13 01:16:39
  */
 class AlipayBossFncOutputinvoicePreviewRequest
 {

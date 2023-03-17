@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.voice.paystatus.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:36:01
+ * @since 1.0, 2023-03-12 17:59:11
  */
 class AlipayCommerceIotVoicePaystatusSendRequest
 {

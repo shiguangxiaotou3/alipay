@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.device.bind request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:15:02
+ * @since 1.0, 2023-03-13 04:26:17
  */
 class AlipayMsaasMediarecogMmtcaftscvDeviceBindRequest
 {

@@ -1,5 +1,5 @@
 <?php
-namespace  shiguangxiaotou\alipay\schema;
+namespace shiguangxiaotou\alipay\schema;
 
 class AttributeRule
 {

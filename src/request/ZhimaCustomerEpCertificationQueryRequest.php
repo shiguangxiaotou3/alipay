@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.customer.ep.certification.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:59:42
+ * @since 1.0, 2023-03-13 00:48:44
  */
 class ZhimaCustomerEpCertificationQueryRequest
 {

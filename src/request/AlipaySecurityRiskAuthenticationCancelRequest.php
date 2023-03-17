@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.authentication.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:34:22
+ * @since 1.0, 2023-03-13 05:59:02
  */
 class AlipaySecurityRiskAuthenticationCancelRequest
 {

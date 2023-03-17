@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.prod.antlegalchain.notary.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:22:01
+ * @since 1.0, 2023-03-13 01:16:06
  */
 class AlipayBossProdAntlegalchainNotaryQueryRequest
 {

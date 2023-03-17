@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.mycar.promo.voucher.verify request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:16:15
+ * @since 1.0, 2023-03-13 02:56:12
  */
 class AlipayEcoMycarPromoVoucherVerifyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.qipan.crowduser.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-17 20:31:37
+ * @since 1.0, 2023-03-13 04:26:40
  */
 class AlipayMerchantQipanCrowduserAddRequest
 {

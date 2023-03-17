@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: ant.merchant.expand.automat.apply.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:40:53
+ * @since 1.0, 2023-03-13 06:36:53
  */
 class AntMerchantExpandAutomatApplyUploadRequest
 {

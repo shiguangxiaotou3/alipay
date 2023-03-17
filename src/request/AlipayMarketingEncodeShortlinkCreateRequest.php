@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.encode.shortlink.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:31:23
+ * @since 1.0, 2023-03-13 04:06:22
  */
 class AlipayMarketingEncodeShortlinkCreateRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.message.group.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:49:57
+ * @since 1.0, 2023-03-12 21:54:28
  */
 class AlipayOpenPublicMessageGroupSendRequest
 {

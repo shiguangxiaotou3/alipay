@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.produceqrcode.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:45:34
+ * @since 1.0, 2023-03-13 07:40:18
  */
 class KoubeiSalesKbassetStuffProduceqrcodeBatchqueryRequest
 {

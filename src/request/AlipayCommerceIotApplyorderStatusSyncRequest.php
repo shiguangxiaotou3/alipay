@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.iot.applyorder.status.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:12:28
+ * @since 1.0, 2023-03-12 17:53:04
  */
 class AlipayCommerceIotApplyorderStatusSyncRequest
 {

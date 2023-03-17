@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.risk.policy.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-02-06 10:24:15
+ * @since 1.0, 2023-03-12 22:31:39
  */
 class AlipaySecurityRiskPolicyConfirmRequest
 {

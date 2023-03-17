@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.signatory.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:20:33
+ * @since 1.0, 2023-03-13 06:31:56
  */
 class AlipayUserSignatoryInfoQueryRequest
 {

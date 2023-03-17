@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.daniel.test.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-09 14:16:49
+ * @since 1.0, 2023-03-13 05:54:49
  */
 class AlipaySecurityDanielTestQueryRequest
 {

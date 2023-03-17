@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.district.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:43:45
+ * @since 1.0, 2023-03-13 08:03:27
  */
 class MybankPaymentTradeDistrictQueryRequest
 {

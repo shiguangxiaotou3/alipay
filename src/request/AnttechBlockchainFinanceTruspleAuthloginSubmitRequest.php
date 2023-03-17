@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.finance.trusple.authlogin.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:11:38
+ * @since 1.0, 2023-03-12 23:36:41
  */
 class AnttechBlockchainFinanceTruspleAuthloginSubmitRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.auth.zhimaorg.identity.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:05:23
+ * @since 1.0, 2023-03-13 06:20:06
  */
 class AlipayUserAuthZhimaorgIdentityApplyRequest
 {

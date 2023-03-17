@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.cityfacilitator.city.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:15:38
+ * @since 1.0, 2023-03-12 17:27:19
  */
 class AlipayCommerceCityfacilitatorCityQueryRequest
 {

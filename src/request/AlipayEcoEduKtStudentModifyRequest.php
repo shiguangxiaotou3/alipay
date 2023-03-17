@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.edu.kt.student.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:51:05
+ * @since 1.0, 2023-03-12 19:14:42
  */
 class AlipayEcoEduKtStudentModifyRequest
 {

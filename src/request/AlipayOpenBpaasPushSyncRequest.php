@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.bpaas.push.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:11:47
+ * @since 1.0, 2023-03-12 21:13:47
  */
 class AlipayOpenBpaasPushSyncRequest
 {

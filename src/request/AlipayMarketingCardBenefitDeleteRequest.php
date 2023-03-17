@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.card.benefit.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 17:55:48
+ * @since 1.0, 2023-03-13 04:01:58
  */
 class AlipayMarketingCardBenefitDeleteRequest
 {

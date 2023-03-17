@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.antpaas.token.third.trust.login request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:25:30
+ * @since 1.0, 2023-03-13 06:18:38
  */
 class AlipayUserAntpaasTokenThirdTrustLoginRequest
 {

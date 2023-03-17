@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.indirect.iotbind.query request
  *
  * @author auto create
- * @since 1.0, 2023-02-03 15:21:40
+ * @since 1.0, 2023-03-13 04:26:40
  */
 class AlipayMerchantIndirectIotbindQueryRequest
 {

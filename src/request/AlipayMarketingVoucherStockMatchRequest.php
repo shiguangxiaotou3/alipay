@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.voucher.stock.match request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:37:00
+ * @since 1.0, 2023-03-13 04:12:28
  */
 class AlipayMarketingVoucherStockMatchRequest
 {

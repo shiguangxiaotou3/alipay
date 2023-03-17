@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.itask.merchant.record.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-31 19:48:03
+ * @since 1.0, 2023-03-13 03:46:39
  */
 class AlipayIserviceItaskMerchantRecordSyncRequest
 {

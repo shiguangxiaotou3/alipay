@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.order.instantdelivery.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 20:17:55
+ * @since 1.0, 2023-03-12 18:01:48
  */
 class AlipayCommerceLogisticsOrderInstantdeliveryCancelRequest
 {

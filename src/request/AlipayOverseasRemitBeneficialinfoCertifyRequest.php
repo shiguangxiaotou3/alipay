@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.overseas.remit.beneficialinfo.certify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:15:47
+ * @since 1.0, 2023-03-12 22:04:20
  */
 class AlipayOverseasRemitBeneficialinfoCertifyRequest
 {

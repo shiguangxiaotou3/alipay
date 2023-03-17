@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.agreement.quota.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:28:41
+ * @since 1.0, 2023-03-12 19:34:24
  */
 class AlipayFundAgreementQuotaModifyRequest
 {

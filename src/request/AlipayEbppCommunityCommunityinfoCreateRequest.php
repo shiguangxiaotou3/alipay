@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.community.communityinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:23:34
+ * @since 1.0, 2023-03-13 02:27:01
  */
 class AlipayEbppCommunityCommunityinfoCreateRequest
 {

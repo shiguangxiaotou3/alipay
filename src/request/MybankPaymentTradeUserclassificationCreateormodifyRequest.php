@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.payment.trade.userclassification.createormodify request
  *
  * @author auto create
- * @since 1.0, 2023-01-12 16:26:38
+ * @since 1.0, 2023-03-13 08:06:39
  */
 class MybankPaymentTradeUserclassificationCreateormodifyRequest
 {

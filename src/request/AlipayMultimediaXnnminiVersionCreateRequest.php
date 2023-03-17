@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.multimedia.xnnmini.version.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 09:36:41
+ * @since 1.0, 2023-03-12 21:06:42
  */
 class AlipayMultimediaXnnminiVersionCreateRequest
 {

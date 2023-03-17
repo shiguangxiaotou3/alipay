@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.cbbpm.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 14:45:54
+ * @since 1.0, 2023-03-13 02:24:27
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspCbbpmSyncRequest
 {

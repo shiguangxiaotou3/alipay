@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.fnc.invoicereceipt.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:21:37
+ * @since 1.0, 2023-03-13 01:13:31
  */
 class AlipayBossFncInvoicereceiptBatchqueryRequest
 {

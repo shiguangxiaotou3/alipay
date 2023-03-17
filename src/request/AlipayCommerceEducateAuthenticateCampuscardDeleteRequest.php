@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.educate.authenticate.campuscard.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:11:47
+ * @since 1.0, 2023-03-12 17:33:16
  */
 class AlipayCommerceEducateAuthenticateCampuscardDeleteRequest
 {

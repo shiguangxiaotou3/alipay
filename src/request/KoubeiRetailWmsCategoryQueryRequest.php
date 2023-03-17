@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.retail.wms.category.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:10:21
+ * @since 1.0, 2023-03-13 00:07:40
  */
 class KoubeiRetailWmsCategoryQueryRequest
 {

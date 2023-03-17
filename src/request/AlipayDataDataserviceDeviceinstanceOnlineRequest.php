@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.deviceinstance.online request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 10:56:36
+ * @since 1.0, 2023-03-12 18:38:48
  */
 class AlipayDataDataserviceDeviceinstanceOnlineRequest
 {

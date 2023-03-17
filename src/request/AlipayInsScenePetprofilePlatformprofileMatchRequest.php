@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.match request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:39:05
+ * @since 1.0, 2023-03-13 03:37:02
  */
 class AlipayInsScenePetprofilePlatformprofileMatchRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.mindv.answers.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-02-03 16:05:17
+ * @since 1.0, 2023-03-13 03:45:28
  */
 class AlipayIserviceMindvAnswersBatchqueryRequest
 {

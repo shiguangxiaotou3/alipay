@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.public.contact.follow.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 17:47:52
+ * @since 1.0, 2023-03-12 21:50:25
  */
 class AlipayOpenPublicContactFollowBatchqueryRequest
 {

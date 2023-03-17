@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.guarantee.tradedrive.pay request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:25:38
+ * @since 1.0, 2023-03-13 07:44:55
  */
 class MybankCreditGuaranteeTradedrivePayRequest
 {

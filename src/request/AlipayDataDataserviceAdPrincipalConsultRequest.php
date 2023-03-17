@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.ad.principal.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:17:37
+ * @since 1.0, 2023-03-13 02:16:58
  */
 class AlipayDataDataserviceAdPrincipalConsultRequest
 {

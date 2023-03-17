@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcapi.vehicleplate.identify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:41:27
+ * @since 1.0, 2023-03-12 20:59:57
  */
 class AlipayMsaasMediarecogMmtcapiVehicleplateIdentifyRequest
 {

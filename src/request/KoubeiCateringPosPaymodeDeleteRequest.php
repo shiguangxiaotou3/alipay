@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.catering.pos.paymode.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:11:59
+ * @since 1.0, 2023-03-13 07:20:38
  */
 class KoubeiCateringPosPaymodeDeleteRequest
 {

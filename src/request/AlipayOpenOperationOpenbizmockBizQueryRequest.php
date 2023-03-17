@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.operation.openbizmock.biz.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:44:21
+ * @since 1.0, 2023-03-13 05:19:39
  */
 class AlipayOpenOperationOpenbizmockBizQueryRequest
 {

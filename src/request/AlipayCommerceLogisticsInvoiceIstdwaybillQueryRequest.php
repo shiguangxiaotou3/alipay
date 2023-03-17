@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.invoice.istdwaybill.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:39:06
+ * @since 1.0, 2023-03-12 18:01:36
  */
 class AlipayCommerceLogisticsInvoiceIstdwaybillQueryRequest
 {

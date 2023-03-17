@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.applepay.otp.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:57:10
+ * @since 1.0, 2023-03-13 06:19:11
  */
 class AlipayUserApplepayOtpSendRequest
 {

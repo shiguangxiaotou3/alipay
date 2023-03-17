@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.finance.pf.iou.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:41:03
+ * @since 1.0, 2023-03-12 23:35:48
  */
 class AnttechBlockchainFinancePfIouQueryRequest
 {

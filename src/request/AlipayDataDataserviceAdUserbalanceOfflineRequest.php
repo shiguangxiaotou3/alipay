@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.ad.userbalance.offline request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:07:41
+ * @since 1.0, 2023-03-12 18:36:51
  */
 class AlipayDataDataserviceAdUserbalanceOfflineRequest
 {

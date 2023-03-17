@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ins.scene.ecommerce.claim.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:50:57
+ * @since 1.0, 2023-03-13 03:31:05
  */
 class AlipayInsSceneEcommerceClaimQueryRequest
 {

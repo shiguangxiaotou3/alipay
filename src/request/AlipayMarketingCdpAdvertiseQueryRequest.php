@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.cdp.advertise.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:15:00
+ * @since 1.0, 2023-03-13 04:05:16
  */
 class AlipayMarketingCdpAdvertiseQueryRequest
 {

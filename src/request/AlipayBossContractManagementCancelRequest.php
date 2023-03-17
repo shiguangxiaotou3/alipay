@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.contract.management.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:38:56
+ * @since 1.0, 2023-03-12 16:52:37
  */
 class AlipayBossContractManagementCancelRequest
 {

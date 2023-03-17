@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.widget.data.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:21:44
+ * @since 1.0, 2023-03-12 21:51:39
  */
 class AlipayOpenMiniWidgetDataSyncRequest
 {

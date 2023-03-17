@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.pe.user.credit.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:32:03
+ * @since 1.0, 2023-03-13 00:45:26
  */
 class ZhimaCreditPeUserCreditFreezeRequest
 {

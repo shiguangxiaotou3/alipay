@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.base.process.instance.assign request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:57:47
+ * @since 1.0, 2023-03-13 01:05:28
  */
 class AlipayBossBaseProcessInstanceAssignRequest
 {

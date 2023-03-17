@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.mobileauth.templatetext.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:30:04
+ * @since 1.0, 2023-03-12 22:16:20
  */
 class AlipayPcreditHuabeiMobileauthTemplatetextQueryRequest
 {

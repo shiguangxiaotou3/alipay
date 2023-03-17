@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.asiangames.hotelstatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:19:36
+ * @since 1.0, 2023-03-13 01:22:17
  */
 class AlipayCommerceAsiangamesHotelstatusQueryRequest
 {

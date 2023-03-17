@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.eprint.task.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:33:24
+ * @since 1.0, 2023-03-12 19:15:59
  */
 class AlipayEcoEprintTaskSubmitRequest
 {

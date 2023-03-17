@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.overdraft.returnmoney request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:46:44
+ * @since 1.0, 2023-03-13 06:09:14
  */
 class AlipayTradeOverdraftReturnmoneyRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.gamecenter.metric.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 20:06:41
+ * @since 1.0, 2023-03-12 23:11:45
  */
 class AlipayUserGamecenterMetricSubmitRequest
 {

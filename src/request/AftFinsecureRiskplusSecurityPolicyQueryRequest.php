@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: aft.finsecure.riskplus.security.policy.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:12:35
+ * @since 1.0, 2023-03-12 16:44:46
  */
 class AftFinsecureRiskplusSecurityPolicyQueryRequest
 {

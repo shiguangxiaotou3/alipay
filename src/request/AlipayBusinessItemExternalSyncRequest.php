@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.business.item.external.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:25:18
+ * @since 1.0, 2023-03-13 01:18:32
  */
 class AlipayBusinessItemExternalSyncRequest
 {

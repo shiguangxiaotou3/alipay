@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.antarchive.custrelation.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:36:46
+ * @since 1.0, 2023-03-12 22:52:32
  */
 class AlipayUserAntarchiveCustrelationAddRequest
 {

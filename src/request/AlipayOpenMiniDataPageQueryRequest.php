@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.data.page.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:18:06
+ * @since 1.0, 2023-03-12 21:27:41
  */
 class AlipayOpenMiniDataPageQueryRequest
 {

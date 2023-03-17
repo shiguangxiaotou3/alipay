@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.search.box.online request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 00:51:38
+ * @since 1.0, 2023-03-13 14:18:05
  */
 class AlipayOpenSearchBoxOnlineRequest
 {

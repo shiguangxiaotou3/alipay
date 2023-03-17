@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.ampe.device.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:35:29
+ * @since 1.0, 2023-03-13 04:52:31
  */
 class AlipayOpenMiniAmpeDeviceDeleteRequest
 {

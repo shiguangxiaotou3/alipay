@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.trans.auction.balance.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:32:28
+ * @since 1.0, 2023-03-12 19:45:37
  */
 class AlipayFundTransAuctionBalanceQueryRequest
 {

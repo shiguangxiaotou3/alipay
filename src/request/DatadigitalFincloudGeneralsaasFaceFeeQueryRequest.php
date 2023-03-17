@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.face.fee.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-16 20:01:37
+ * @since 1.0, 2023-03-13 07:11:39
  */
 class DatadigitalFincloudGeneralsaasFaceFeeQueryRequest
 {

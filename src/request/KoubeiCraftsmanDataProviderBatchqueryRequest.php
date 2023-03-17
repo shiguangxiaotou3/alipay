@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.craftsman.data.provider.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:02:40
+ * @since 1.0, 2023-03-13 07:24:07
  */
 class KoubeiCraftsmanDataProviderBatchqueryRequest
 {

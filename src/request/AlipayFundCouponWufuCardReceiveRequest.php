@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.coupon.wufu.card.receive request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:54:12
+ * @since 1.0, 2023-03-12 19:37:55
  */
 class AlipayFundCouponWufuCardReceiveRequest
 {

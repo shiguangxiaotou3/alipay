@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.ampe.devicemodel.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:32:28
+ * @since 1.0, 2023-03-13 04:52:53
  */
 class AlipayOpenMiniAmpeDevicemodelAddRequest
 {

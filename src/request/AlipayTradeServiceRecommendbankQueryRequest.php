@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.trade.service.recommendbank.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:01:37
+ * @since 1.0, 2023-03-13 06:26:39
  */
 class AlipayTradeServiceRecommendbankQueryRequest
 {

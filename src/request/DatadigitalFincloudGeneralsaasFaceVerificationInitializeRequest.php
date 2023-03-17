@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.face.verification.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-01-16 11:51:39
+ * @since 1.0, 2023-03-13 07:08:09
  */
 class DatadigitalFincloudGeneralsaasFaceVerificationInitializeRequest
 {

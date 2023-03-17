@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.boss.related.bill.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:19:52
+ * @since 1.0, 2023-03-13 01:18:10
  */
 class AlipayBossRelatedBillConsultRequest
 {

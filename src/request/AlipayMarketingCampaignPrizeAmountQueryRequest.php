@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.campaign.prize.amount.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:19:36
+ * @since 1.0, 2023-03-13 03:57:24
  */
 class AlipayMarketingCampaignPrizeAmountQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.timescard.instance.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:56:44
+ * @since 1.0, 2023-03-12 18:11:46
  */
 class AlipayCommerceOperationTimescardInstanceBatchqueryRequest
 {

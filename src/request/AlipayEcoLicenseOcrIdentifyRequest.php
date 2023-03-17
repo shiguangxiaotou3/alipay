@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.license.ocr.identify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:32:35
+ * @since 1.0, 2023-03-12 19:16:45
  */
 class AlipayEcoLicenseOcrIdentifyRequest
 {

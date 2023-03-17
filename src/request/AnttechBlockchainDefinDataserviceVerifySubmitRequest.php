@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.defin.dataservice.verify.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:26:49
+ * @since 1.0, 2023-03-13 06:54:29
  */
 class AnttechBlockchainDefinDataserviceVerifySubmitRequest
 {

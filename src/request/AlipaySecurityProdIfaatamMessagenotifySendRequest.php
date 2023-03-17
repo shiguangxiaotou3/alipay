@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.ifaatam.messagenotify.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:13:15
+ * @since 1.0, 2023-03-12 22:23:47
  */
 class AlipaySecurityProdIfaatamMessagenotifySendRequest
 {

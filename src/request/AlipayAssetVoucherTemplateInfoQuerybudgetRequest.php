@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.asset.voucher.template.info.querybudget request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 15:33:32
+ * @since 1.0, 2023-03-12 16:50:13
  */
 class AlipayAssetVoucherTemplateInfoQuerybudgetRequest
 {

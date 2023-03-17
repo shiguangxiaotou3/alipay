@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.member.brandowner.name.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:03:32
+ * @since 1.0, 2023-03-13 00:02:41
  */
 class KoubeiMemberBrandownerNameQueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.user.sitemember.enterprise.match request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:22:25
+ * @since 1.0, 2023-03-13 07:58:08
  */
 class MybankCreditUserSitememberEnterpriseMatchRequest
 {

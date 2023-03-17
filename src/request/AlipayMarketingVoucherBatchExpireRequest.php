@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.voucher.batch.expire request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:16:37
+ * @since 1.0, 2023-03-13 04:26:40
  */
 class AlipayMarketingVoucherBatchExpireRequest
 {

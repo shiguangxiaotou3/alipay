@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.ebpp.pdeduct.czsign.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:53:44
+ * @since 1.0, 2023-03-12 18:48:49
  */
 class AlipayEbppEbppPdeductCzsignUpgradeRequest
 {

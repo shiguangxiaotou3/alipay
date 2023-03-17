@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.offline.market.shop.querydetail request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:37:53
+ * @since 1.0, 2023-03-12 21:01:29
  */
 class AlipayOfflineMarketShopQuerydetailRequest
 {

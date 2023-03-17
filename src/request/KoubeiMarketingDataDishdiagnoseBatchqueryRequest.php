@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.marketing.data.dishdiagnose.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:45:13
+ * @since 1.0, 2023-03-13 07:30:26
  */
 class KoubeiMarketingDataDishdiagnoseBatchqueryRequest
 {

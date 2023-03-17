@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.servicemarket.instance.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:50:39
+ * @since 1.0, 2023-03-12 22:00:24
  */
 class AlipayOpenServicemarketInstanceSyncRequest
 {

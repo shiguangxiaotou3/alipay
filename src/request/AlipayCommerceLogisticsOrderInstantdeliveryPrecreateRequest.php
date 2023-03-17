@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.order.instantdelivery.precreate request
  *
  * @author auto create
- * @since 1.0, 2023-02-17 11:36:27
+ * @since 1.0, 2023-03-13 01:46:40
  */
 class AlipayCommerceLogisticsOrderInstantdeliveryPrecreateRequest
 {

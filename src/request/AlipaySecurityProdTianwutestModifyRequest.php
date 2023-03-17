@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.security.prod.tianwutest.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:29:15
+ * @since 1.0, 2023-03-12 22:26:18
  */
 class AlipaySecurityProdTianwutestModifyRequest
 {

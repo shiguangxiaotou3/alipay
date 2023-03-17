@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: antfortune.quotation.plate.index.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:08:40
+ * @since 1.0, 2023-03-13 06:50:28
  */
 class AntfortuneQuotationPlateIndexQueryRequest
 {

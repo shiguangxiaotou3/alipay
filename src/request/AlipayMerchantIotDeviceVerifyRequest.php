@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.iot.device.verify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:39:00
+ * @since 1.0, 2023-03-13 04:14:58
  */
 class AlipayMerchantIotDeviceVerifyRequest
 {

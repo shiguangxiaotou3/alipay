@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.widgetgoods.quantity.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:07:16
+ * @since 1.0, 2023-03-13 05:26:41
  */
 class AlipayOpenMiniWidgetgoodsQuantityModifyRequest
 {

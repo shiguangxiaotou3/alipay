@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:36:30
+ * @since 1.0, 2023-03-13 02:20:26
  */
 class AlipayDataDataservicePropertyBusinesspropertyBatchqueryRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: mybank.credit.supplychain.wf.repaymentamt.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:05:00
+ * @since 1.0, 2023-03-13 07:56:49
  */
 class MybankCreditSupplychainWfRepaymentamtQueryRequest
 {

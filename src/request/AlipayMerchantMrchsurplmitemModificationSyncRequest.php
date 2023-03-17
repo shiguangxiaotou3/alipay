@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.mrchsurplmitem.modification.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:31:56
+ * @since 1.0, 2023-03-13 04:16:18
  */
 class AlipayMerchantMrchsurplmitemModificationSyncRequest
 {

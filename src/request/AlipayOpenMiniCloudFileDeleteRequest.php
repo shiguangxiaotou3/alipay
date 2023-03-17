@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.cloud.file.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 00:51:46
+ * @since 1.0, 2023-03-13 04:56:22
  */
 class AlipayOpenMiniCloudFileDeleteRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.aiservice.smartprice.merchanteffect.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:19:48
+ * @since 1.0, 2023-03-12 18:33:12
  */
 class AlipayDataAiserviceSmartpriceMerchanteffectQueryRequest
 {

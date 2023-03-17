@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.innerbaseinfo.precreate.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:19:02
+ * @since 1.0, 2023-03-12 21:32:21
  */
 class AlipayOpenMiniInnerbaseinfoPrecreateCancelRequest
 {

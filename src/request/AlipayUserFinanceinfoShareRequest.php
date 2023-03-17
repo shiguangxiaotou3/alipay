@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.financeinfo.share request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:38:28
+ * @since 1.0, 2023-03-12 23:02:11
  */
 class AlipayUserFinanceinfoShareRequest
 {

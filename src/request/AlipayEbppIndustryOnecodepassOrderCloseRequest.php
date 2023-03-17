@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.ebpp.industry.onecodepass.order.close request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:46:38
+ * @since 1.0, 2023-03-13 02:31:39
  */
 class AlipayEbppIndustryOnecodepassOrderCloseRequest
 {

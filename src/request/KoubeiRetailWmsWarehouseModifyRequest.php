@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.retail.wms.warehouse.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:22:57
+ * @since 1.0, 2023-03-13 07:38:29
  */
 class KoubeiRetailWmsWarehouseModifyRequest
 {

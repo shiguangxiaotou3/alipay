@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.version.rollback request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:42:08
+ * @since 1.0, 2023-03-13 05:17:57
  */
 class AlipayOpenMiniVersionRollbackRequest
 {

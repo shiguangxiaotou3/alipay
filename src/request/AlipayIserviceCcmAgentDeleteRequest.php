@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.ccm.agent.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:42:19
+ * @since 1.0, 2023-03-12 20:08:13
  */
 class AlipayIserviceCcmAgentDeleteRequest
 {

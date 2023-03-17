@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: zhima.credit.ep.data.rating.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:55:17
+ * @since 1.0, 2023-03-13 00:39:23
  */
 class ZhimaCreditEpDataRatingQueryRequest
 {

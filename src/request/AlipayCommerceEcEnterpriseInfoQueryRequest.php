@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.ec.enterprise.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-16 20:21:36
+ * @since 1.0, 2023-03-13 01:31:40
  */
 class AlipayCommerceEcEnterpriseInfoQueryRequest
 {

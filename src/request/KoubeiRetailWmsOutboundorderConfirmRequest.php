@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: koubei.retail.wms.outboundorder.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:55:00
+ * @since 1.0, 2023-03-13 07:37:12
  */
 class KoubeiRetailWmsOutboundorderConfirmRequest
 {

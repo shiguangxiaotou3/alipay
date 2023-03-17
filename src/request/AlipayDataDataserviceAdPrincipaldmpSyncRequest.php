@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.data.dataservice.ad.principaldmp.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:29:19
+ * @since 1.0, 2023-03-13 02:17:33
  */
 class AlipayDataDataserviceAdPrincipaldmpSyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: anttech.blockchain.finance.asset.register.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:38:39
+ * @since 1.0, 2023-03-13 06:57:31
  */
 class AnttechBlockchainFinanceAssetRegisterApplyRequest
 {

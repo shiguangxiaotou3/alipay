@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.flexiblestaffing.authorize.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-16 10:41:39
+ * @since 1.0, 2023-03-12 19:41:41
  */
 class AlipayFundFlexiblestaffingAuthorizeQueryRequest
 {

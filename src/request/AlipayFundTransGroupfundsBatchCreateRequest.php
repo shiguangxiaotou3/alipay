@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.fund.trans.groupfunds.batch.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:16:29
+ * @since 1.0, 2023-03-12 19:47:16
  */
 class AlipayFundTransGroupfundsBatchCreateRequest
 {

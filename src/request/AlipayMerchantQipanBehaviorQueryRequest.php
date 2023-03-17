@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.qipan.behavior.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-30 15:31:38
+ * @since 1.0, 2023-03-12 21:01:39
  */
 class AlipayMerchantQipanBehaviorQueryRequest
 {

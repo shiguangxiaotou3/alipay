@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.merchant.mrchsurplmitem.increment.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:05:16
+ * @since 1.0, 2023-03-13 04:16:07
  */
 class AlipayMerchantMrchsurplmitemIncrementSyncRequest
 {

@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.mobile.public.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-09 16:29:16
+ * @since 1.0, 2023-03-12 20:58:05
  */
 class AlipayMobilePublicQrcodeCreateRequest
 {

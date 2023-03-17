@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.operation.timescard.item.online request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:13:46
+ * @since 1.0, 2023-03-12 18:09:50
  */
 class AlipayCommerceOperationTimescardItemOnlineRequest
 {

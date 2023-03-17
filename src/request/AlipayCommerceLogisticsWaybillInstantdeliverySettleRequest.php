@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.commerce.logistics.waybill.instantdelivery.settle request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 20:01:41
+ * @since 1.0, 2023-03-13 01:51:45
  */
 class AlipayCommerceLogisticsWaybillInstantdeliverySettleRequest
 {

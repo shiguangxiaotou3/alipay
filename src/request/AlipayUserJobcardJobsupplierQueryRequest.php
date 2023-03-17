@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.jobcard.jobsupplier.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:52:00
+ * @since 1.0, 2023-03-12 23:04:28
  */
 class AlipayUserJobcardJobsupplierQueryRequest
 {

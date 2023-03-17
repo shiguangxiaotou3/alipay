@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.iservice.cognitive.aswf.dag.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:24:49
+ * @since 1.0, 2023-03-12 20:14:50
  */
 class AlipayIserviceCognitiveAswfDagQueryRequest
 {

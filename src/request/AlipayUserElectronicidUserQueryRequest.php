@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.electronicid.user.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:35:57
+ * @since 1.0, 2023-03-13 06:25:51
  */
 class AlipayUserElectronicidUserQueryRequest
 {

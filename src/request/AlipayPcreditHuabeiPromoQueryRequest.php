@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.pcredit.huabei.promo.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 14:48:00
+ * @since 1.0, 2023-03-13 05:51:57
  */
 class AlipayPcreditHuabeiPromoQueryRequest
 {

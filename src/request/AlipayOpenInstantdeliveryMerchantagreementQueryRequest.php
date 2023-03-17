@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.instantdelivery.merchantagreement.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:49:54
+ * @since 1.0, 2023-03-13 04:43:24
  */
 class AlipayOpenInstantdeliveryMerchantagreementQueryRequest
 {

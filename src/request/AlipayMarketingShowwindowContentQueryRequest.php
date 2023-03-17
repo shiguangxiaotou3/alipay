@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.marketing.showwindow.content.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:41:05
+ * @since 1.0, 2023-03-12 20:40:10
  */
 class AlipayMarketingShowwindowContentQueryRequest
 {

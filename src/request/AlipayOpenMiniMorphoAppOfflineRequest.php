@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.open.mini.morpho.app.offline request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:49:12
+ * @since 1.0, 2023-03-12 21:40:10
  */
 class AlipayOpenMiniMorphoAppOfflineRequest
 {

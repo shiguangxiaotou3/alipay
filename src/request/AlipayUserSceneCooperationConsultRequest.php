@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.user.scene.cooperation.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:27:31
+ * @since 1.0, 2023-03-13 06:31:33
  */
 class AlipayUserSceneCooperationConsultRequest
 {

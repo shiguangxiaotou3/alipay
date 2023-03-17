@@ -1,10 +1,10 @@
 <?php
-namespace  shiguangxiaotou\alipay\request;
+namespace shiguangxiaotou\alipay\request;
 /**
  * ALIPAY API: alipay.eco.cms.cdata.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:23:22
+ * @since 1.0, 2023-03-13 02:46:06
  */
 class AlipayEcoCmsCdataUploadRequest
 {
